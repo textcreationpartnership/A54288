@@ -1,0 +1,1216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New instructions to the guardian shewing that the last remedy to prevent the ruin, advance the interest, and recover the honour of this nation is I. a more serious and strict education of the nobility and gentry, II. to breed up all their younger sons to some calling and employment, III. more of them to holy orders, with a method of institution from three years of age to twenty one.</title>
+            <author>Penton, Stephen, 1639-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 142 KB of XML-encoded text transcribed from 93 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54288</idno>
+            <idno type="STC">Wing P1440</idno>
+            <idno type="STC">ESTC R5509</idno>
+            <idno type="EEBO-CITATION">12580824</idno>
+            <idno type="OCLC">ocm 12580824</idno>
+            <idno type="VID">63741</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54288)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63741)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 328:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New instructions to the guardian shewing that the last remedy to prevent the ruin, advance the interest, and recover the honour of this nation is I. a more serious and strict education of the nobility and gentry, II. to breed up all their younger sons to some calling and employment, III. more of them to holy orders, with a method of institution from three years of age to twenty one.</title>
+                  <author>Penton, Stephen, 1639-1706.</author>
+               </titleStmt>
+               <extent>[19], 143 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Parts 2-3 have special title pages.</note>
+                  <note>Epistle dedicatory signed: Stephen Penton.</note>
+                  <note>Reproduction of original in British Library.</note>
+                  <note>Pages 125, 128, 137, and 140 have print faded in filmed copy. Pages 120-end photographed from Bodleian Library copy and inserted at the end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Education --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:63741:1"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>Geo. Royſe.</signed>
+               <date>March 6. 1691/4.</date>
+            </closer>
+         </div>
+         <div type="note">
+            <head>Advertiſement.</head>
+            <p>THE Pages of the <hi>Guardian's Inſtruction,</hi> and the <hi>Appara<g ref="char:EOLhyphen"/>tus ad Theologiam,</hi> which are ſo of<g ref="char:EOLhyphen"/>ten referred to in this Book, are according to the firſt and beſt Im<g ref="char:EOLhyphen"/>preſſion, ſold by <hi>Walter Kettilby,</hi> and <hi>Sam. Smith</hi> in St. <hi>Paul</hi>'s Church<g ref="char:EOLhyphen"/>yard. and <hi>Henry Clements</hi> in <hi>Ox<g ref="char:EOLhyphen"/>ford.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:63741:1" rendition="simple:additions"/>
+            <p>
+               <hi>New Inſtructions</hi> TO THE GUARDIAN: SHEWING That the laſt Remedy to Prevent the Ruin, Advance the Intereſt, and Recover the Honour of this Nation is,
+<list>
+                  <item>I. A more Serious and Strict Education of the Nobility and Gentry.</item>
+                  <item>II. To breed up all their younger Sons to ſome Calling and Employment.</item>
+                  <item>III. More of them to Holy Orders.</item>
+               </list>
+            </p>
+            <p>WITH A Method of Inſtitution from Three Years of Age, to Twenty One.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby,</hi> at the <hi>Bi<g ref="char:EOLhyphen"/>ſhop's-Head</hi> in St. <hi>Paul's</hi> Church<g ref="char:EOLhyphen"/>yard. 1694.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:63741:2"/>
+            <pb facs="tcp:63741:2"/>
+            <head>TO CHARLES Lord <hi>BR<g ref="char:V">Ʋ</g>CE, Son and Heir to the Right Honourable the Earl of</hi> Ailesbury.</head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>I Am very willing it ſhould be known how great a ſhare of the <hi>Guardian's Inſtru<g ref="char:EOLhyphen"/>ction</hi> was Influenc'd by the Proſpect of your good Lordſhip's Education; and alſo the juſt Regard theſe Second Thoughts have both to your Lordſhip, and
+<pb facs="tcp:63741:3"/>the Splendid Families of <hi>Sa<g ref="char:EOLhyphen"/>reſden, Barton,</hi> and <hi>Glymp<g ref="char:EOLhyphen"/>ton.</hi>
+            </p>
+            <p>I look'd on my ſelf your Debtor in the Reſult of all my Experience and Obſervation, from the time when Sicklineſs made me Retire from Buſineſs, and that Retirement made Re<g ref="char:EOLhyphen"/>flection the main uſe of my Being, and Notions of Educa<g ref="char:EOLhyphen"/>tion ſo familiar as to become the very Property of my think<g ref="char:EOLhyphen"/>ing Faculty.</p>
+            <p>This I intend for an Excuſe to thoſe Perſons who are ſo kind as to think that I am able to deal with a greater Subject. They think <hi>Letters, Syllables,</hi> and <hi>Spelling</hi> be<g ref="char:EOLhyphen"/>neath the venturous Pretenſi<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:63741:3"/>of the Title-Page: They are beneath it indeed, but no otherwiſe than the Foundati<g ref="char:EOLhyphen"/>on is beneath the Building, which, though it be low and unregarded, dirty and leſs Po<g ref="char:EOLhyphen"/>liſhed, yet the leaſt neglect and ſlightneſs in that is fatal to the Pomp and Pride of what looks higher.</p>
+            <p>Some are ſo kind as to wiſh that it were not ſo ſhort; where<g ref="char:EOLhyphen"/>as it ſeems I miſtook when I thought that a Civility and Bribe to the Reader. There are thoſe who know that a while ſince it was much larger; and why it is not ſo now, among ſeveral Reaſons I will name but one: If I ſhould have written all that I could have
+<pb facs="tcp:63741:4"/>ſaid on the Subject, I am ſatis<g ref="char:EOLhyphen"/>fied it would never have made a Fool a Wiſer Man; and what wrong is it to the Tutor to pre<g ref="char:EOLhyphen"/>ſume him able to Improve and Practiſe upon a few plain ge<g ref="char:EOLhyphen"/>neral Directions. I am not tempted to think the Directions I give the beſt and wiſeſt in their kind: But to juſtifie my Choice, (whatever becomes of my Judgment) I muſt own that they are ſuch as I would uſe my ſelf in hopes of Succeſs, as thinking them moſt plain and eaſie, and moſt agreeable to the Infancy of Thought; which ought mainly to be con<g ref="char:EOLhyphen"/>ſidered in the buſineſs of In<g ref="char:EOLhyphen"/>ſtitution.</p>
+            <p>
+               <pb facs="tcp:63741:4"/>That the Knowlege I wiſh your Lordſhip, may more effe<g ref="char:EOLhyphen"/>ctually ſerve this Life and a better, I pray God to Water with Dew from above the Seeds of Virtue and Religion in you: For Knowledge in a Perſon of great Quality without Grace and good Manners, is a ſight rather <hi>Ominous</hi> than Delight<g ref="char:EOLhyphen"/>ing; it is like the mighty Blazing Comet, the more <hi>Glo<g ref="char:EOLhyphen"/>rious</hi> the more <hi>Terrible,</hi> and the Influence of the former on the Ruin of this Kingdom is much more certain than the Prediction of it from the lat<g ref="char:EOLhyphen"/>ter can reaſonably be pretend<g ref="char:EOLhyphen"/>ed.</p>
+            <p>
+               <pb facs="tcp:63741:5"/>My Lord, I ſpeak not this out of any diſtruſt, I know the juſt Temperament of Authority and Affection, which cannot but turn to Account ſo ſweet a Diſpoſition: For though I will not ſtand by all the ſuppoſitions which have been made, yet I think it is ſafe to believe that God will not Deny Grace where Parents and Tutors do their Duty.</p>
+            <p>And now, <hi>(my Lord)</hi> the great Prejudice of a long Pre<g ref="char:EOLhyphen"/>face to a Book which hath no<g ref="char:EOLhyphen"/>thing in it to command a Reader's Favour, makes me ſhort in mine own Defence, and conceal many things which the World would willingly know concerning your Illuſtrious An<g ref="char:EOLhyphen"/>ceſtors,
+<pb facs="tcp:63741:5"/>and muſt depend upon the experienced Good-Nature of your Noble Family, to ac<g ref="char:EOLhyphen"/>cept of a general Acknowledg<g ref="char:EOLhyphen"/>ment how much I am,</p>
+            <closer>
+               <signed>Your moſt Obliged, and Affectionate, STEPHEN PENTON.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:63741:6"/>
+            <pb facs="tcp:63741:6"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <head>The Firſt Part.</head>
+               <item>A Word to the Wiſe, lamenting the great Degeneracy of Manners from the Gallantry of our Ance<g ref="char:EOLhyphen"/>ſtors, <hi>page 1, 2</hi>
+               </item>
+               <item>Cauſed by too much Indulgence and Fondneſs in the Education of Per<g ref="char:EOLhyphen"/>ſons born to Greatneſs and Places of Truſt, <hi>p. 3, 4</hi>
+               </item>
+               <item>Frugality recommended, <hi>p. 5, 6</hi>
+               </item>
+               <item>Prodigality condemned, <hi>p. 7</hi>
+               </item>
+               <item>Covetouſneſs cenſured, <hi>p. 8</hi>
+               </item>
+               <item>Some Calling and Profeſſion abſolutely neceſſary for the younger Sons of No<g ref="char:EOLhyphen"/>bility and Gentry, <hi>p. 10</hi>
+               </item>
+               <item>The reaſon why ſo few of them under<g ref="char:EOLhyphen"/>take any Calling is an Error in their Breeding, <hi>p. 10, 11</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:63741:7"/>A Reaſon for a diſtinction in the Breeding the Eldeſt Son from the Younger, <hi>p. 11, 12</hi>
+               </item>
+               <item>Divinity recommended to the Youn<g ref="char:EOLhyphen"/>ger Sons of Nobility and Gentry, <hi>p. 13</hi>
+               </item>
+               <item>A Catalogue of Nobles who have been Church-men, <hi>p. 14</hi>
+               </item>
+               <item>The damage the Publick ſuffers for want of the Service young Gentle<g ref="char:EOLhyphen"/>men's Parts might do in ſome Pro<g ref="char:EOLhyphen"/>feſſion or other, <hi>p. 18</hi>
+               </item>
+               <item>The great Advantage their own Pri<g ref="char:EOLhyphen"/>vate Families might reap thereby as to the Riches of this World, <hi>p. 20</hi>
+               </item>
+               <item>And as to the Happineſs of the next in the Salvation of their Souls, <hi>p. 23</hi>
+               </item>
+               <item>The looſeneſs of Manners in the Sons of the Gentry, is to be aſcribed to the careleſneſs of the Fathers when they grow up, <hi>p. 24</hi>
+               </item>
+               <item>The Advantages which Parents have above Strangers in Breeding up their own Children, <hi>p. 25</hi>
+               </item>
+               <item>Good Education would fortifie them againſt Temptations by the help of
+<pb facs="tcp:63741:7"/>God's Grace, <hi>p. 28</hi>
+               </item>
+               <item>And prevent the Horror of a guilty Conſcience, <hi>p. 29</hi>
+               </item>
+               <item>The Earl of <hi>Marleborough</hi>'s Pious Letter before he was killed at Sea, <hi>p. 33</hi>
+               </item>
+               <item>The famous Earl of <hi>Rocheſter</hi>'s con<g ref="char:EOLhyphen"/>verſion, the Reſtections on his Life, and Mr. <hi>Robert Parſon</hi>'s very uſeful Sermon at his Funeral; re<g ref="char:EOLhyphen"/>commended to young Gentlemen, <hi>p. 35, 36,</hi> &amp;c.</item>
+            </list>
+            <list>
+               <head>The Second Part. A Method of Teaching from Three Years of Age to Twenty One.</head>
+               <item>A Vindication of the <hi>Guardian's Inſtructions</hi> in an anſwer to a Letter, <hi>p. 44</hi>
+               </item>
+               <item>Firſt Stage for learning <hi>Engliſh, p. 52</hi>
+               </item>
+               <item>Lord's Prayer, Creed, and Ten Com<g ref="char:EOLhyphen"/>mandments, <hi>p. 57</hi>
+               </item>
+               <item>Second Stage from Six to Fourteen, <hi>p. 63</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:63741:8"/>A Method propoſed to exerciſe the Child's Memory, ſo that at the ſame time he may have a general View by the Diviſion of the Old Teſta<g ref="char:EOLhyphen"/>ment Hiſtory, <hi>p. 63</hi>
+               </item>
+               <item>A familiar way of feeding his think<g ref="char:EOLhyphen"/>ing Faculty with variety of Matter, <hi>p. 67</hi>
+               </item>
+               <item>
+                  <hi>Solomon</hi>'s Proverbs digeſted under ſeveral Heads, with the Addition of the Proverbs of all civilized Countries, recommended as a good Foundation for Prudence and Good<g ref="char:EOLhyphen"/>neſs, <hi>p. 70</hi>
+               </item>
+               <item>Learning to Write early, propoſed, <hi>p. 71</hi>
+               </item>
+               <item>Placing Children of much differing A<g ref="char:EOLhyphen"/>ges and Capacities in the ſame Claſs at School diſcommended, <hi>p. 72</hi>
+               </item>
+               <item>The Admirable effect of conſtantly ac<g ref="char:EOLhyphen"/>cuſtoming a Child to read a Chap<g ref="char:EOLhyphen"/>ter Morning and Evening in the Bible, <hi>p. 73,</hi> and alſo <hi>p. 36</hi>
+               </item>
+               <item>What ſort of Chapters moſt uſeful for the Child's reading more particular<g ref="char:EOLhyphen"/>ly, <hi>p. 74</hi>
+               </item>
+               <item>Directions for learning <hi>Latin</hi> and <hi>Greek, p. 74</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:63741:8"/>Reaſons conſidered why Children be<g ref="char:EOLhyphen"/>yond Sea learn <hi>Latin</hi> ſooner than here, <hi>p. 75</hi>
+               </item>
+               <item>The common Grammar and Acci<g ref="char:EOLhyphen"/>dence to be uſed, tho' objected a<g ref="char:EOLhyphen"/>gainſt by learned and judicious Men, <hi>p. 77</hi>
+               </item>
+               <item>Great Leiſure and Patience adviſed to treat a Child with at the begin<g ref="char:EOLhyphen"/>ning, <hi>p. 79</hi>
+               </item>
+               <item>Directions for the next Eight Years, Year after Year; how to teach a Child <hi>Latin</hi> and <hi>Greek,</hi> and fit him for the <g ref="char:V">Ʋ</g>niverſity by Fourteen, not omitting between whiles the forementioned <hi>Engliſh</hi> Exerciſes, <hi>p. 80</hi>
+               </item>
+               <item>Dancing between whiles adviſed, <hi>p. 91</hi>
+               </item>
+            </list>
+            <list>
+               <head>The Third Stage.</head>
+               <item>From Fourteen to Twenty One, <hi>p. 93</hi>
+               </item>
+               <item>Short Directions for a Tutor to treat a young Gentleman newly brought to the <g ref="char:V">Ʋ</g>niverſity, <hi>p. 93.</hi>
+               </item>
+               <item>The Practice of ſome Perſons in ſend<g ref="char:EOLhyphen"/>ing their Sons to an Academy firſt,
+<pb facs="tcp:63741:9"/>and afterwards to the <g ref="char:V">Ʋ</g>niverſity diſcommended, <hi>p. 100</hi>
+               </item>
+               <item>To place him with a Country Miniſter inſtead of ſending him to the <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſity alſo diſcommended, <hi>p. 100</hi>
+               </item>
+               <item>As alſo ſending him to ſome Proteſtant <g ref="char:V">Ʋ</g>niverſity with a foreign Tutor, <hi>p. 101</hi>
+               </item>
+               <item>The ſeveral Courſes of Life, young Gentlemen are to be grounded in, according to their reſpective Talents and Conditions, <hi>p. 102</hi>
+               </item>
+               <item>Travailing, with ſome Directions, <hi>p. 102</hi>
+               </item>
+               <item>Setling in the Country, and acting there, <hi>p. 108</hi>
+               </item>
+               <item>Study of Phyſick, <hi>p. 108, 109</hi>
+               </item>
+               <item>Civil-Law, <hi>p. 110</hi>
+               </item>
+               <item>Common-Law, <hi>p. 111</hi>
+               </item>
+               <item>Directions for a compleat Courſe in the Study of Divinity, by the help of the <hi>Apparatus ad Theologi<g ref="char:EOLhyphen"/>am,</hi> written for that purpoſe, <hi>p. 113</hi>
+               </item>
+               <item>A Tutor to direct a young Nobleman or Gentleman in the ſtudy of Di<g ref="char:EOLhyphen"/>vinity adviſed, as greatly uſeful, <hi>p. 118</hi>
+               </item>
+            </list>
+            <list>
+               <pb facs="tcp:63741:9"/>
+               <head>The Third Part. The Concluſion, in behalf of Holy Orders.</head>
+               <item>ENcouragement for Perſons of Qua<g ref="char:EOLhyphen"/>lity to ſtudy Divinity, <hi>p. 123</hi>
+               </item>
+               <item>Objections, (why they do not ſtudy it) anſwered, <hi>p. 125</hi>
+               </item>
+               <item>The Rural Clergy in many places nei<g ref="char:EOLhyphen"/>ther beloved nor kindly uſed, <hi>p. 126</hi>
+               </item>
+               <item>Going to Law not a convenient Re<g ref="char:EOLhyphen"/>medy, <hi>p. 128</hi>
+               </item>
+               <item>A Deſcription of a Purſ-proud Clown who oppreſſeth his Miniſter, <hi>p. 130, 131</hi>
+               </item>
+               <item>Cheating the Parſon thought no ſin, and the danger of it, <hi>p. 133</hi>
+               </item>
+               <item>Objection that many Clergy-men have much more than they deſerve, <hi>p. 134, 135</hi>
+               </item>
+               <item>That the Clergy live to high, <hi>p. 136</hi>
+               </item>
+               <item>That many of the Clergy are too Great, <hi>p. 137</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:63741:10"/>That the Inferiour Clergy are many of them Idle, Ignorant, Quarrel. ſome, and Looſe, <hi>p. 138</hi>
+               </item>
+               <item>The Pattern of St. <hi>Ambroſe</hi> and <hi>Theodoſius, p. 139</hi>
+               </item>
+               <item>More Reſpect paid the Sacred Functi<g ref="char:EOLhyphen"/>on all the World over than is here, <hi>p. 140</hi>
+               </item>
+               <item>If Noblemen's Sons were Clergy-Men, their Intereſt would ſupport the Function, <hi>p. 142</hi>
+               </item>
+               <item>Without ſome Amendment we muſt be ruined, <hi>p. 143</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div n="1" type="part">
+                  <pb n="1" facs="tcp:63741:10"/>
+                  <head>A Word to the Wiſe.</head>
+                  <p>THoſe <hi>Engliſh</hi> Gentlemen I mean, whoſe Great Souls are griev'd, when they conſider how this Gallant Nation hath fool'd away that Ho<g ref="char:EOLhyphen"/>nour which our Anceſtors ſo dearly purchaſed: We once made a grea<g ref="char:EOLhyphen"/>ter noiſe in the World, our Arms were Formidable where ever they came, Conqueſt of whole Nations was eaſie: We fed in Priſon the Kings of thoſe Countries we are afraid of: Our aſſiſtance was often Courted, and always Succeſsful: Happy were the People who could get the <hi>Engliſh</hi> on their ſide, to Re<g ref="char:EOLhyphen"/>lieve diſtreſted States, and ſix tot<g ref="char:EOLhyphen"/>tering Crowns: We rode in Plea<g ref="char:EOLhyphen"/>ſure-Boats on the Sea, and knew no
+<pb n="2" facs="tcp:63741:11"/>other Dangers but what were under Water: In one Battle could make the Enemy ſend a Blank, and give a Peace he was neither able to Force or Purchaſe.</p>
+                  <p>Now, what leſs than a Stoical <hi>Senſeleſs</hi> Patience can bear a Re<g ref="char:EOLhyphen"/>flection on the unhappy Change? That in few Years (I am aſhamed to ſay how few) from ſo great a ſteddineſs of Gravity, Honeſty, and Courage, we were ſoftned into Fop<g ref="char:EOLhyphen"/>piſhneſs, Diſſembling, and almoſt Cowardice: To ſee Wiſdom ſold for Wit, Veracity loſt in Swearing: To ſee Vice impudent, and Vertue deſpiſed for ſingularity, and almoſt as much Courage required to be a Good Man, as would Take or De<g ref="char:EOLhyphen"/>fend a Town.</p>
+                  <p>To trace this Calamity through all its Cauſes, is a ſubject too Me<g ref="char:EOLhyphen"/>lancholy for a thoughtful Man to be truſted with.</p>
+                  <p>It muſt be confeſs'd, the Hard<g ref="char:EOLhyphen"/>ſhips of the Civil War ruin'd the Fathers, the Luxury following the
+<pb n="3" facs="tcp:63741:11"/>Reſtauration ſpoiled the Sons; and if a ſtricter Diſcipline doth not mend the Grandchildren, we will reſolve to be a By-word, and an Hiſſing to <hi>French, Dutch, Scotch,</hi> and all Man<g ref="char:EOLhyphen"/>kind.</p>
+                  <p>But perhaps, Arguments from Honour may be too ſpeculative; I will try one taken from Intereſt and Force: Self-Preſervation at this time is very coſtly, Wars thicken up<g ref="char:EOLhyphen"/>on us, and our Silver Mines run low; A ſtrict Education of Children is a good way to ſave and pay Taxes, for Vertue is cheaper than Vice: Tenderneſs and Indulgence feeds the Inclination to Gaiety, which tends to Debauchery, and ruine of a Family: When you ſhall ſee the unſatiable Curioſity of a Child's wanton Appetite everlaſtingly gra<g ref="char:EOLhyphen"/>tifi'd with whatſoever it craves (and ſo craving thereby made infinite:) When Father and Mother ſhall fear to diſpleaſe him, as if the Child were wiſeſt of all the three, and were in good truth my <hi>Little Maſter,</hi> with<g ref="char:EOLhyphen"/>out
+<pb n="4" facs="tcp:63741:12"/>any Complement: At Ten Years of Age, when he ſhould be formed to Wiſdom, he muſt once every day Hunt, making his Horſes and Dogs Companions, inſtead of Servants, and venture his Neek four or five hours at a time for Health's ſake: When perhaps this is a Perſon whom Providence deſigns for a <hi>Truſtee</hi> in the Government of ſix Millions of People: And what care can be enough for his Accompliſh<g ref="char:EOLhyphen"/>ment? What Wiſdom, Hiſtory, and Politicks, what Integrity, Oratory, and Courage is required to under<g ref="char:EOLhyphen"/>ſtand and debate the true Intereſt of the Kingdom, to diſcover and baffle the Fallacies of a deſigning Speecher, to give the King ſeaſona<g ref="char:EOLhyphen"/>ble and uſeful Counſel, ſo ſervice<g ref="char:EOLhyphen"/>ably to manage Foreign Miniſters of State, as to redeem us from the Scandal of that old true Jeſt, of loſing in a Treaty all we got in a Fight.</p>
+                  <p>There are great Places of <hi>Truſt</hi> and <hi>Profit</hi> in the Kingdom to be
+<pb n="5" facs="tcp:63741:12"/>aimed at, which Kings are many times forced to fill up with Per<g ref="char:EOLhyphen"/>ſons of meaner Birth, becauſe, for<g ref="char:EOLhyphen"/>ſooth, Great Ones will not conde<g ref="char:EOLhyphen"/>ſcend to be Wiſe enough to manage them: So that in concluſion, be<g ref="char:EOLhyphen"/>ſides the Service of the Publick, the beſt way to keep up and encreaſe a Patrimony, is to breed up Chil<g ref="char:EOLhyphen"/>dren <hi>Severely,</hi> and fit them with Improvements ſuitable to their Quality: This will make them able to live <hi>Wiſely,</hi> and within compaſs, and bear the great Burthe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, the Publick Exigencies of our Affairs lay upon us: And it will be worth all the Charges we are at for our preſent Defence; if that <hi>Frugality</hi> and Wiſdom which neither Mora<g ref="char:EOLhyphen"/>lity nor Religion could teach, <hi>Ne<g ref="char:EOLhyphen"/>ceſſity</hi> at laſt ſhould force us to.</p>
+                  <p>And here I cannot paſs by the Cenſure of an Humour too frequent among young Gentlemen; miſta<g ref="char:EOLhyphen"/>king Vanity and Profuſeneſs for Ge<g ref="char:EOLhyphen"/>neroſity; they deſpiſe and laugh at Parſimony and Thrift, as qualities
+<pb n="6" facs="tcp:63741:13"/>Sullen, Sordid, and Ungenteel, thoſe <hi>Qualities</hi> which are valued in other Countries, and which made the <hi>Romans</hi> maſters of the World; and which have made the <hi>Veneti<g ref="char:EOLhyphen"/>ans</hi> and the <hi>Dutch</hi> in Greatneſs e<g ref="char:EOLhyphen"/>qual to moſt Kingdoms in <hi>Europe.</hi> And is not this a much more re<g ref="char:EOLhyphen"/>putable diſpoſition in a Nation, than to feed an heedleſs humour of Waſting: And inſtead of true and ſolid Honour, (which nothing but Wiſdom and Vertue hath any Ti<g ref="char:EOLhyphen"/>tle to) vain-gloriouſly to aim at Popularity, and ſacrifice an Eſtate to purchaſe the Admiration of the Rabble; but the <hi>Hatred</hi> of all who are Good, and <hi>Contempt</hi> of all who are Wiſe. Care therefore in time ſhould be taken in the Education of Youth, to prevent this Tem<g ref="char:EOLhyphen"/>per.</p>
+                  <p n="1">1. It ſeldom goes <hi>alone;</hi> it is ſeen in very had Company moſt times, and the Vices which attend it are none of the cheapeſt.</p>
+                  <p n="2">
+                     <pb n="7" facs="tcp:63741:13"/>2. It brings the Honour and Cre<g ref="char:EOLhyphen"/>dit of a Family into great ſuſpici<g ref="char:EOLhyphen"/>on of Danger, and leaves Younger Children too much at the <hi>Mercy</hi> of the Eldeſt Brother's Vertue.</p>
+                  <p n="3">3. It makes the Man deſpiſed by thoſe who feed moſt upon his Looſeneſs: He that Cheats you, though he be Damn'd for it, laughs at you. When a Perſon of Quali<g ref="char:EOLhyphen"/>ty lands at <hi>Calice,</hi> and the People flock about, and cry out, <hi>Here comes Money,</hi> it ſeems a greater Complement to the plenty of our Nation, than to the wiſdom of the Travellers.</p>
+                  <p n="4">4. A Prodigal Temper makes a Man leſs able to bear any Calami<g ref="char:EOLhyphen"/>tous <hi>Change</hi> of his Condition, which by Providence or ſecular Caſualties may befall him: He hath been too <hi>Free</hi> of the Money which ſhould have been laid up to prevent Ne<g ref="char:EOLhyphen"/>ceſſity, and of the Wiſdom which ſhould ſupport it.</p>
+                  <p>Therefore when a Child is care<g ref="char:EOLhyphen"/>fully taught good ſentiments of
+<pb n="8" facs="tcp:63741:14"/>
+                     <hi>Juſtice,</hi> and <hi>Charity,</hi> which is the greateſt piece of Juſtice in the World, let him be taught to live as <hi>ſavingly</hi> as may comport with Decency and the circumſtances of his Condition. Prudence will go a great way in keeping a Man from being Baſe or Mad.</p>
+                  <p>And now leaſt the Reader ſhould think I am ſetting up for <hi>
+                        <g ref="char:V">Ʋ</g>ſury,</hi> I muſt declare that I am no greater friend to the ſin of Covetouſneſs, than I am to <hi>Idolatry,</hi> the Root of all Evil, and <hi>E<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ity</hi> with God <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and where <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Prodigality meet (for ſuch a Mon<g ref="char:EOLhyphen"/>ſter now and then to Born) When a Man ſhall ſpend a Thouſand Pound for Vain-Glory, and at the ſame time break the Laws of God and Man to get one <hi>Groat;</hi> I am ſo far from favouring him, that I think in the worſt ſence of the word <hi>Reprobate,</hi> without fear of miſtake, he may put himſelf down for one.</p>
+                  <p>
+                     <pb n="9" facs="tcp:63741:14"/>There are a great many more <hi>Cautions</hi> in the Education of young Gentlemen, as to Morality, which might come in here, but I menti<g ref="char:EOLhyphen"/>on this in particular, as being big with moſt inconveniencies, and be<g ref="char:EOLhyphen"/>ing very catching as ſoon as a Child thinks himſelf ſomething. Now to prevent the other <hi>many ill Habits</hi> in Youth, was the ſubject of a late Book, called the <hi>Guardi<g ref="char:EOLhyphen"/>an's Inſtruction;</hi> the deſign of which appears in the Preface before it, and the Index in the end: The <hi>
+                        <g ref="char:V">Ʋ</g>ſefulneſs</hi> of which, to that end is <hi>Explained</hi> and <hi>Improved</hi> in the Second Part of this Book; which is a Method to teach a Child from three years of age to twenty one, <hi>&amp;c.</hi> For the uſe of Gentlemen who have Wit enough to be <hi>Adviſed,</hi> and know how to be Civil to their own <hi>Intereſt, that is,</hi> who are wiſe e<g ref="char:EOLhyphen"/>nough to conſider, that there is an <hi>Arch-Biſhoprick,</hi> a <hi>Lord-Chancellor<g ref="char:EOLhyphen"/>ſhip,</hi> and a <hi>Lord-Chief-Juſtice-ſhip</hi> in the Kingdom worth ſtudy<g ref="char:EOLhyphen"/>ing
+<pb n="10" facs="tcp:63741:15"/>for; of which more in ano<g ref="char:EOLhyphen"/>ther place.</p>
+                  <p>And I muſt here rid my ſelf of ſome Thoughts which have often run in mine Head, that, whatever be the Occaſion, certainly Fooliſh is the conceit, That <hi>Law, Phyſick,</hi> or <hi>Divinity</hi> is beneath the Son of a Perſon of Quality, though the <hi>Fourth, Fifth,</hi> or <hi>Sixth</hi> Son. It were worth the while to ſhew the reaſons of it, I cannot be ſo <hi>hard-hearted</hi> to the Gentry and Nobility as to think that this Humour always pro<g ref="char:EOLhyphen"/>ceeds from <hi>Pride:</hi> But I rather ima<g ref="char:EOLhyphen"/>gine that it proceeds from an A<g ref="char:EOLhyphen"/>verſion (to the confinement of a Profeſſion) in the Children them<g ref="char:EOLhyphen"/>ſelves, occaſioned by an <hi>
+                        <g ref="char:V">Ʋ</g>nwary</hi> promiſcuous way of their Educati<g ref="char:EOLhyphen"/>on, which I have touched upon in the forementioned Book, <hi>Pag.</hi> 35. <hi>Guardian's Inſtructions.</hi>
+                  </p>
+                  <p>I will exemplify this in a Caſe: A Perſon of Quality, worth ſeve<g ref="char:EOLhyphen"/>ral Thouſands a year, hath four or five Sons, but the <hi>Eldeſt</hi> is to carry
+<pb n="11" facs="tcp:63741:15"/>the <hi>Eſtate</hi> and <hi>Title,</hi> upon the de<g ref="char:EOLhyphen"/>ceaſe of the Father; nay, perhaps beforehand, is to be Maſter of a <hi>good ſhare,</hi> and the Younger Chil<g ref="char:EOLhyphen"/>dren to depend on the Father's Pru<g ref="char:EOLhyphen"/>dence for a <hi>moderate Proviſion:</hi> In the mean time they are all bred up in one <hi>Common manner,</hi> enjoy the ſame Fondneſs, wear the ſame Clothes, go to the ſame School, Hunt and Hawk at the ſame <hi>Idle</hi> rate: This muſt needs plump up the ſenſual Soul of the Youth, make him rec<g ref="char:EOLhyphen"/>kon himſelf as good as his eldeſt Brother, and of as good parts too, never conſidering that the other is to be <hi>Wiſer</hi> by Five Thouſand Pounds a year.</p>
+                  <p>How will ſuch a Child be able to bear the <hi>
+                        <g ref="char:V">Ʋ</g>ngrateful Diſtinction</hi> which muſt ſhortly be made? The eldeſt Son muſt be taken from School, Treated like a Man, Habi<g ref="char:EOLhyphen"/>ted for Quality, and have a Man and an half to wait upon him, and a brace of Geldings; and after he hath ſlam'd for a year or two in
+<pb n="12" facs="tcp:63741:16"/>the Univerſity, retire to be ſetled in the Country, and <hi>ſhare</hi> the Greatneſs of his Father. Now in the ſight of all this, who ſhall un<g ref="char:EOLhyphen"/>dertake to perſwade the other Children to go up to <hi>Oxford,</hi> and live thriftily there, and ſtudy <hi>hard</hi> to make out their Fortunes by ſome Calling. The Quality of their Birth, and Gaity of their Brother, will ſtill be running in their Minds; this will breed <hi>Diſcontent;</hi> Diſcon<g ref="char:EOLhyphen"/>tent will make them <hi>Idle;</hi> and I<g ref="char:EOLhyphen"/>dleneſs will make them even what they pleaſe.</p>
+                  <p>It may perhaps be objected, that this diſtinction in Education of Elder and Younger Sons, may be apt to beget <hi>Pride</hi> in the one, and to diſcourage the other: As for the firſt, a <hi>Sober</hi> and <hi>Pious</hi> education may prevent that, and as for the ſecond, the younger Children ought to be diſcouraged from thinking <hi>too well</hi> of themſelves: They muſt be told, and be taught the <hi>dif<g ref="char:EOLhyphen"/>ference</hi> of their Relation to the
+<pb n="13" facs="tcp:63741:16"/>
+                     <hi>Patrimony,</hi> and that more know<g ref="char:EOLhyphen"/>ledge and learning, will vie with what they <hi>Envy</hi> in their elder Bro<g ref="char:EOLhyphen"/>ther; and that Induſtry in an ho<g ref="char:EOLhyphen"/>nourable Profeſſion, may entitle them to as comfortable, if not as great a Fortune. And having men<g ref="char:EOLhyphen"/>tioned the undertaking a Profeſſi<g ref="char:EOLhyphen"/>on, I cannot think but the ſtudy of Divinity a very <hi>Genteel</hi> and <hi>A<g ref="char:EOLhyphen"/>greeable</hi> employment to exerciſe the Talent of a young Perſon of Qua<g ref="char:EOLhyphen"/>lity: There is one <hi>Melancholy Ob<g ref="char:EOLhyphen"/>jection</hi> which I am afraid makes ſo few of them undertake it: They ſee the dignified Clergy <hi>Envied,</hi> and the inferior Clergy treated with <hi>Contempt</hi> and <hi>Hardſhips</hi> in ma<g ref="char:EOLhyphen"/>ny places, by the great Enemies of Religion and the Church. I have not room here to give an Anſwer, but the <hi>Function</hi> ſhall have <hi>Juſtice</hi> done it, and the Clergy be <hi>Vindica<g ref="char:EOLhyphen"/>ted</hi> from its Enemies, whom Ma<g ref="char:EOLhyphen"/>lice, Atheiſm or Pride, Avarice or Diſſenſion make ſo. In the mean time, becauſe it is not impoſſible
+<pb n="14" facs="tcp:63741:17"/>but ſome Gentleman or other of <hi>Parts</hi> and <hi>Learning,</hi> may be encli<g ref="char:EOLhyphen"/>ned to hearken to theſe <hi>Good Wiſhes.</hi> In the Second Part, I will preſcribe him ſuch a Method from the very <hi>beginning</hi> of his Adventure, as by God's Bleſſing upon his Abilities, ſhall give him very great Inſight, if he can take Pains <hi>enough.</hi>
+                  </p>
+                  <list>
+                     <head>A Catalogue of ſeveral Great Fa<g ref="char:EOLhyphen"/>milies whoſe Relations have been Church Men.</head>
+                     <item>
+                        <hi>AGelnothus,</hi> Biſhop of <hi>Canterbury,</hi> Son of Earl <hi>Agelmare.</hi>
+                     </item>
+                     <item>
+                        <hi>Athelmarus,</hi> Biſhop of <hi>Winton,</hi> Son to <hi>Hugh,</hi> Earl of <hi>March.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry de Bloys,</hi> Biſhop of <hi>Wincheſter,</hi> Brother to King <hi>Stephen.</hi>
+                     </item>
+                     <item>
+                        <hi>Hugh de Pudſey,</hi> Biſhop of <hi>Durham,</hi> Earl of <hi>Northumberland.</hi>
+                     </item>
+                     <item>
+                        <pb n="15" facs="tcp:63741:17"/>
+                        <hi>Boniface</hi> of <hi>Savoy,</hi> Biſhop of <hi>Cant.</hi> Uncle to Queen <hi>Eleanor,</hi> Wife to <hi>Henry</hi> III.</item>
+                     <item>
+                        <hi>Richard Talbot,</hi> Biſhop of <hi>London,</hi> Allied to the <hi>Talbot</hi>'s, after, Earls of <hi>Shrewsbury.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Beaufort,</hi> Biſhop of <hi>Lincoln</hi> and <hi>Winton,</hi> Son to <hi>John</hi> of <hi>Gaunt.</hi>
+                     </item>
+                     <item>
+                        <hi>William Courtney,</hi> Biſhop of <hi>Canterb.</hi> Son of <hi>Hugh Courtney,</hi> Earl of <hi>Devon.</hi>
+                     </item>
+                     <item>
+                        <hi>Giles de Bruce,</hi> Biſhop of <hi>Hereford,</hi> Son of <hi>William,</hi> Lord <hi>de Bruce.</hi>
+                     </item>
+                     <item>
+                        <hi>George Nevil,</hi> Biſhop of <hi>Exon</hi> and <hi>York,</hi> Brother to <hi>Richard Nevil,</hi> Earl of <hi>Warwick.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Piercy,</hi> Biſhop of <hi>Norwich,</hi> Allied to the <hi>Piercy's,</hi> Earls of <hi>Northumberland.</hi>
+                     </item>
+                     <item>
+                        <hi>Lionel Woodvil,</hi> Biſhop of <hi>Sarum,</hi> Son to Earl <hi>Rivers.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Vipont,</hi> Biſhop of <hi>Carirſle,</hi> Allied to <hi>Viponts,</hi> then Earls of <hi>Weſtmorland.</hi>
+                     </item>
+                     <item>
+                        <hi>Marmaduke Lumley,</hi> Biſhop of <hi>Carliſle,</hi> Allied to the Houſe of <hi>Lumley</hi>'s.</item>
+                     <item>
+                        <pb n="16" facs="tcp:63741:18"/>
+                        <hi>Walter,</hi> Biſhop of <hi>Durham,</hi> Earl of <hi>Northumberland.</hi>
+                     </item>
+                     <item>
+                        <hi>Julius de Medices,</hi> Biſhop of <hi>Wor<g ref="char:EOLhyphen"/>ceſter,</hi> Allied to the Houſe of <hi>Medices</hi> in <hi>Italy.</hi>
+                     </item>
+                     <item>
+                        <hi>Nicholas de Longeſpee,</hi> Biſhop of <hi>Sa<g ref="char:EOLhyphen"/>rum,</hi> Son to <hi>William,</hi> Earl of <hi>Sa<g ref="char:EOLhyphen"/>lisbury.</hi>
+                     </item>
+                     <item>
+                        <hi>William Dudley,</hi> Biſhop of <hi>Durham,</hi> Son of <hi>John</hi> Lord <hi>Dudley.</hi>
+                     </item>
+                     <item>
+                        <hi>Walter de Cantilupo,</hi> Biſhop of <hi>Wor<g ref="char:EOLhyphen"/>ceſter,</hi> of a Great Houſe in <hi>Nor<g ref="char:EOLhyphen"/>mandy.</hi>
+                     </item>
+                     <item>
+                        <hi>Lewes Beaumont,</hi> Biſhop of <hi>Durham,</hi> of the Blood-Royal of <hi>France.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Arundel,</hi> Biſhop of <hi>Canterb.</hi> Son to <hi>Robert,</hi> Earl of <hi>Arundel</hi> and <hi>Warren.</hi>
+                     </item>
+                     <item>
+                        <hi>James Berkley,</hi> Biſhop of <hi>Exon,</hi> Son to the Lord <hi>Berkley.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Scroope,</hi> Biſhop of <hi>Coventry</hi> and <hi>Litchfield,</hi> Brother to <hi>William Scroope,</hi> Earl of <hi>Wiltſhire.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Bourchier,</hi> Biſhop of <hi>Cant.</hi> Son to <hi>Henry Bourchler,</hi> Earl of <hi>Eſſex.</hi>
+                     </item>
+                     <item>
+                        <pb n="17" facs="tcp:63741:18"/>
+                        <hi>Roger de Clinton,</hi> Biſhop of <hi>Coventry</hi> and <hi>Litchfield,</hi> of the ſame Fami<g ref="char:EOLhyphen"/>ly with <hi>Geofry de Clinton.</hi>
+                     </item>
+                     <item>
+                        <hi>John Stafford,</hi> Biſhop of <hi>Canterbury,</hi> Son to the Earl of <hi>Stafford.</hi>
+                     </item>
+                     <item>
+                        <hi>William de Vere,</hi> Biſhop of <hi>Hereford,</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Beauchamp,</hi> Biſhop of <hi>He<g ref="char:EOLhyphen"/>reford,</hi> and <hi>Sarum.</hi>
+                     </item>
+                     <item>
+                        <hi>John Orandiſon,</hi> Biſhop of <hi>Exon,</hi> of the Houſe of <hi>Grandiſon,</hi> Dukes of <hi>Burgundy.</hi>
+                     </item>
+                     <item>
+                        <hi>Edmund Audley,</hi> Biſhop of <hi>Hereford.</hi> Allied to the Lord <hi>Audley.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi> Biſhop of <hi>Lincoln,</hi> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Baron of <hi>Lords.</hi>
+                     </item>
+                     <item>
+                        <hi>John Zou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h,</hi> Biſhop of <hi>Landaff,</hi> Bro<g ref="char:EOLhyphen"/>ther to the Lord <hi>Zouch.</hi>
+                     </item>
+                     <item>
+                        <hi>Fulco Baſſet,</hi> Biſhop of <hi>London,</hi> Lord <hi>Baſſet.</hi>
+                     </item>
+                     <item>
+                        <hi>James Stanley,</hi> Biſhop of <hi>Ely,</hi> Bro<g ref="char:EOLhyphen"/>ther to the Eacl of <hi>Derby.</hi>
+                     </item>
+                     <item>
+                        <hi>Simon Montacute,</hi> Biſhop of <hi>Ely,</hi> Al<g ref="char:EOLhyphen"/>lied to the <hi>Montacutes,</hi> then Earls <hi>Salisbury.</hi>
+                     </item>
+                  </list>
+                  <p>What Clergy have ſprung from the Gentry, Lawyers, and Mer<g ref="char:EOLhyphen"/>chants,
+<pb n="18" facs="tcp:63741:19"/>you may ſee in a very large Catalogue annexed to the Charter of the Corporation for Widows and Children of Clergy-men, Prin<g ref="char:EOLhyphen"/>ted <hi>July</hi> 1. 1678. for <hi>John Playford</hi> in <hi>Little-Britain.</hi>
+                  </p>
+                  <p>To ſpeak my mind more plainly,</p>
+                  <p n="1">1. A ſtrict Education of the young Nobility and Gentry would be a great Advantage to the Pub<g ref="char:EOLhyphen"/>lick. It is a great Wrong to the National Concerns that we <hi>loſe</hi> the Service and Aſſiſtance which the Parts of ſo many excellent Perſons might afford: What great variety would the King have to fill up all void Places of <hi>Truſt</hi> and <hi>Honour?</hi> What choice of <hi>Privy-Councellors, Ambaſſadors, Judges,</hi> and <hi>Juſtices</hi> of the Peace? What a glorious ſhew of Military <hi>Officers</hi> at Land and Sea?</p>
+                  <p>We may learn from an Enemy: How mightily doth the <hi>French</hi> King ſerve himſelf of the Nobility there? What an Emulation makes them
+<pb n="19" facs="tcp:63741:19"/>contend to deſerve beſt? And though God be thanked the Arbi<g ref="char:EOLhyphen"/>trary Command of our Service is not ſo great as theirs, yet the Love of our Country ought to be: And what a noble Reſolution would it be for all Perſons of Quality to Conſecrate the ſeveral Inclinations of their Children to the reſpective Services of the Kingdom <hi>Civil, Ec<g ref="char:EOLhyphen"/>cleſiaſtical,</hi> or <hi>Military,</hi> according as Sedentarineſs and Books, or Acti<g ref="char:EOLhyphen"/>vity and Buſineſs is their Talent.</p>
+                  <p>How many Honourable Condi<g ref="char:EOLhyphen"/>tions doth great skill in the <hi>Law</hi> prepare a Man for? How many Lives doth a good <hi>Phyſician</hi> ſave? And what a Calamitous want is there in many places? where many a Gentleman miſcarries, becauſe the Quack cannot write a good Bill, or becauſe the Apothecary cannot read a bad Hand. There are great Dig<g ref="char:EOLhyphen"/>nities in the <hi>Church</hi> which no doubt the King had rather beſtow on a Man of Birth: If his Temper be for Action in the Field, he will ſcarce
+<pb n="20" facs="tcp:63741:20"/>ever want an opportunity to be as Stout as he pleaſeth: And he muſt have a care of miſtaking the Em<g ref="char:EOLhyphen"/>ployment: It is not now as in the time of Peace, when being good for little was Qualification enough for a Soldiers Life, which is often choſen, becauſe it is moſt like to Idleneſs: Now, Induſtry, Hardi<g ref="char:EOLhyphen"/>neſs, Vigilancy, Skill, and Conduct is required, and Courage to ven<g ref="char:EOLhyphen"/>ture the Lottery of Death or Ho<g ref="char:EOLhyphen"/>nour.</p>
+                  <p n="2">2. A ſtrict Education of the No<g ref="char:EOLhyphen"/>bility and Gentry, would be of great Advantage to their own <hi>Private Fa<g ref="char:EOLhyphen"/>milies.</hi> The Eldeſt Son would keep up the Honour, and wiſely manage the Eſtate of his Anceſtors, and be likely to add to both: But on the contrary, if he value himſelf by the cuſtomary liberty of Heirs, to be Looſe and Idle, he may Hunt, Hoop, and Hallow for ſome Years, but in a little time thou ſhalt look and be<g ref="char:EOLhyphen"/>hold he is not, thou ſhalt ſeek him, but he ſhall no where be found:
+<pb n="21" facs="tcp:63741:20"/>And beſides the danger of running out an Eſtate, a looſe and fond E<g ref="char:EOLhyphen"/>ducation of a Son and Heir, is the ready way to make him ſelf-will'd, Humourſome and Proud: For ha<g ref="char:EOLhyphen"/>ving been gratifyed in all he de<g ref="char:EOLhyphen"/>ſired when young, he expects the ſame Fondneſs from all People when he grows up, and for want of it grows Peeviſh, Sowre, and Unconverſable: And I believe ma<g ref="char:EOLhyphen"/>ny Mothers, Wives, Siſters, and Servants have often found ſuch a Man prove the moſt imperious Son, Husband, Brother, Maſter and Neighbour in all the Kingdom.</p>
+                  <p>As for the <hi>Younger Sons,</hi> if they are not bred up to ſome Profeſſi<g ref="char:EOLhyphen"/>on, their caſe is not indifferent. They are left to the dieting of a mode<g ref="char:EOLhyphen"/>rate Condition: Their Parentage makes them aim at Great Fortunes, but the hard word <hi>Jointure</hi> ſpoils all. Sobriety in ſuch Perſons is a great Vertue, and it muſt be a great ſhare of preventing. Grace that can keep them within bounds,
+<pb n="22" facs="tcp:63741:21"/>it being a very hard matter not to do ill, when a Man hath nothing elſe to do: Whereas, were they bred good Scholars, what might not they promiſe themſelves. I would have every younger Son dream as <hi>Joſeph</hi> did, That Father, Mother, and eldeſt Brother, ſhould bow to his Wealth and Power: There have been Honourable Families in this Kingdom, which have made this good. By undertaking one of the forementioned Profeſſions, as they may do great ſervice to the Nation, ſo in the end they may be very well paid. The Kingdom is not niggardly to ſuch as deſerve, if they are not wanting to them<g ref="char:EOLhyphen"/>ſelves by Modeſty. No Nation in <hi>Europe</hi> hath better rewards for In<g ref="char:EOLhyphen"/>duſtry; and I verily believe they are generally as well beſtowed: So that if the Gentry and Nobili<g ref="char:EOLhyphen"/>ty will not be encouraged to take ſuch ſeaſonable advice as this, it is becauſe they reſolve to goe on in the ancient Road of <hi>Careleſneſs.</hi>
+                  </p>
+                  <p n="3">
+                     <pb n="23" facs="tcp:63741:21"/>3. Beſides the ſecular induce<g ref="char:EOLhyphen"/>ments, there is one advantage more of an higher Conſideration; The everlaſting Condition of the <hi>Soul</hi> in the life to come, which nothing but a Vertuous and Holy educati<g ref="char:EOLhyphen"/>on can ſecure. <hi>I know</hi> Abraham, ſays God, Gen. 18.19. <hi>that he will command his Children and his Houſ<g ref="char:EOLhyphen"/>hold, to keep the way of the Lord, to do Juſtice and Judgment, that</hi> I <hi>may bring upon him all that I have ſpo<g ref="char:EOLhyphen"/>ken.</hi> Old <hi>Eli</hi> paid dear for miſ<g ref="char:EOLhyphen"/>carrying in this point; <hi>becauſe his Sons made themſelves Vile, and he reſtrained them not.</hi> It coſt him the Life of his two Sons, his own Neck, and ſuch a Curſe upon his Poſterity as made both the Ears of every one that heard it tingle. 1 <hi>Sam.</hi> 3.11. So true is it what God ſaid to <hi>Ezekiel</hi> 3.18. <hi>When I ſay to the Wicked, thou ſhalt ſurely die,</hi> and thou giveſt him not warn<g ref="char:EOLhyphen"/>ing, from his wicked way that he may ſave his Life, he ſhall die in his Iniquity, but his Blood will I
+<pb n="24" facs="tcp:63741:22"/>require at thine Hands. And when God ſhall bring the Young-man into Judgment <hi>for walking in the ways of his Heart, and the ſight of his own Eyes,</hi> with what confuſion ſhall the <hi>Father</hi> hear the poor Crea<g ref="char:EOLhyphen"/>ture plead for his excuſe; He was bred to nothing, and knew no bet<g ref="char:EOLhyphen"/>ter. He was a good Moraliſt tho' no Courtier, who with the ſarcaſm of a Blow, reprov'd the Father for the Crime of the Son. And in truth Children are Talents to be accounted for. <hi>Redde mihi Liberos meos.</hi> There is no returning as you found them: They muſt be improv'd.</p>
+                  <p>Moſt Men think they have done their Duty when they have gotten <hi>Children</hi> and an <hi>Eſtate,</hi> leaving their Souls to God and their Wives. And 'tis obſervable, That many Ladies are very induſtrious, and begin betimes with Prayers and Catechiſms; but after a little time the Child grows up to be a Boy, and the Boy grows too wiſe for his
+<pb n="25" facs="tcp:63741:22"/>Mother, and then the Father un<g ref="char:EOLhyphen"/>dertakes the Management; and here it is that <hi>Time</hi> and <hi>Chance</hi> happens to his Morals and Religi<g ref="char:EOLhyphen"/>on. The Father he is careleſs, con<g ref="char:EOLhyphen"/>cludes that Virtue will come to him ſome way or another, as it did to himſelf (ſuppoſing him a good Man) but if himſelf be not ſo, then the inſluence it is likely to have upon the Child, muſt needs be obvious, beyond the Po<g ref="char:EOLhyphen"/>wer of all the Prayers and Tears of the beſt Wife, Mother, or Si<g ref="char:EOLhyphen"/>ſter in the World.</p>
+                  <p>Infinite is the force of Example and Inſtruction from Parents on the tender Soul of a Child, and the encouragements to do their duty are great.</p>
+                  <p n="2">2. From that Reverence and Love (which earlieſt of any thing appears in the Child's looks and actions) the conſtant care, preſence, and fondneſs they ſhew, begets from the Infant. It is notorious that a Perſon learns
+<pb n="26" facs="tcp:63741:23"/>the ſame thing much more ſpeedily and more effectually from a Man he loves, than from a ſtranger, or one he fears and hates. Whoſe Commands are received and obey<g ref="char:EOLhyphen"/>ed with more reluctancy than from Parents.</p>
+                  <p n="2">2. It is a great advantage the Pa<g ref="char:EOLhyphen"/>rents have to deal with a Child who knows nothing already, and yet deſires and longs to know any thing: To teach him is to write upon <hi>Clean</hi> and <hi>Smooth</hi> Paper; and if you make not a good ſtroak, a plain Letter and a ſtreight Line, it is the Pen, or the Hand that holds it, but not the Paper to be blamed.</p>
+                  <p n="3">3. The Child as yet hath con<g ref="char:EOLhyphen"/>tracted no <hi>Ill Habits,</hi> which are a great hindrance to Inſtruction of Perſons in years, eſpecially as to Morals.</p>
+                  <p n="4">4. The <hi>Devil</hi> is at a loſs to deal with a Child (who knows neither good nor evil) by all his Tempta<g ref="char:EOLhyphen"/>tions.</p>
+                  <p n="5">
+                     <pb n="27" facs="tcp:63741:23"/>5. God's Bleſſing may reaſonably be hoped for, to ſucceed their care<g ref="char:EOLhyphen"/>ful performance of the Duty he commands: It is God's buſineſs they do, they are his Children they breed up, as <hi>Jacob</hi> told <hi>Rachel, Gen.</hi> 3.2. and He never fails to reward thoſe that ſerve Him faithfully in it.</p>
+                  <p n="6">6. Thoſe Children who are moſt Vertuouſly bred up, prove moſt <hi>Dutiful</hi> and <hi>Comfortable</hi> to their Parents for ever after; where<g ref="char:EOLhyphen"/>as a Child bred up without the Fear of God, will never reverence Man: And how will all the Im<g ref="char:EOLhyphen"/>moralities of his life, the great dangers he runs into in this World, and the greater dangers he ventures in the next, afflict the Souls of his Parents, haſten their old Age, e<g ref="char:EOLhyphen"/>qual the Pangs of his Birth, and make them ſorry that a Man Child was ever born into the World.</p>
+                  <p n="7">7. One infinite advantage Pa<g ref="char:EOLhyphen"/>rents have above a ſtranger in E<g ref="char:EOLhyphen"/>ducation of their Children; they
+<pb n="28" facs="tcp:63741:24"/>knowing their own natural Infir<g ref="char:EOLhyphen"/>mities, and foreſeeing the danger that a ſhare of them may be born with their Children, ought to be Jealous of the miſchief, watch the firſt motions, and more ſeaſona<g ref="char:EOLhyphen"/>bly obviate the Diſeaſe, than others can.</p>
+                  <p>And from hence it is eaſy to ac<g ref="char:EOLhyphen"/>count for that infamous Atheiſm and Immorality, which for many years have diſgraced Reaſon and Humane ſhape: It muſt be charged upon this Fundamental miſearriage in Educa<g ref="char:EOLhyphen"/>tion. For though <hi>Nero</hi> and ſome others may be alledged as In<g ref="char:EOLhyphen"/>ſiances, how much Inſtitution may be foil'd by <hi>Nature;</hi> yet <hi>So<g ref="char:EOLhyphen"/>crates</hi> ingeniouſly confeſſed, what power <hi>Philoſophy</hi> had in ſuch a caſe; And why ſhould not Chriſti<g ref="char:EOLhyphen"/>an inſtruction do the ſame? The knowledge of his Duty and God's Grace, would make Vice looked upon as an <hi>Enemy,</hi> and its Temp<g ref="char:EOLhyphen"/>tations ſuſpected: It would ſupply the young Man with an anſwer to
+<pb n="29" facs="tcp:63741:24"/>the World, the Fleſh, and the De<g ref="char:EOLhyphen"/>vil: <hi>How can I do this great wick<g ref="char:EOLhyphen"/>edneſs, and Sin againſt God?</hi> Gen. 39.9. <hi>Joſeph</hi> was young enough, and private enough to have play'd a Courtier, but his Heart was brim full of Gratitude, and made him as great a Maſter of his own little Family, within his Breaſt, as he was in <hi>Potiphar</hi>'s Houſe, all at his Com<g ref="char:EOLhyphen"/>mand, no Paſſion ſtirs: What? Sin againſt the good Maſter I live upon, and the merciful God who by Mi<g ref="char:EOLhyphen"/>racles brought me hither? I may not, I dare not break in upon my Conſcience with ſuch a Guilt: With what Horror ſhall I live, and how can I dare to die.</p>
+                  <p>And here having mentioned Dy<g ref="char:EOLhyphen"/>ing, I cannot avoid offering a ſe<g ref="char:EOLhyphen"/>rious Conſideration of the moſt diſ<g ref="char:EOLhyphen"/>mal Apprehenſions which muſt needs confound the Soul of a notorious Sinner, when a <hi>Deſperate Sickneſs</hi> ſhall ſet him beyond any Relief from Pleaſure or Delight in Life, when Pain encreaſing, Strength fail<g ref="char:EOLhyphen"/>ing,
+<pb n="30" facs="tcp:63741:25"/>Time ſhortning, he fears a few Minutes may put him upon the wo<g ref="char:EOLhyphen"/>ful Experiment of the <hi>Grand Per<g ref="char:EOLhyphen"/>haps:</hi> When Conſcience let looſe ſhall prevent <hi>Stupidity,</hi> what Pain<g ref="char:EOLhyphen"/>ter is able to draw the Horror and Amazement of his Looks? He ſtares as if his Eye-lids were never to meet; his Groans make the ſtanders by tremble as much as the Bed that he lies upon; he knows not how or where to begin Repentance; he is aſhamed to think of Mercy, and at laſt angry at the Immortality of his Soul, he ſeems willing to die, becauſe Damnation cannot be worſe. Hear this o you who laugh at Vertue, contemn Religion, and yet <hi>muſt Dye,</hi> whatever be your Wealth, your Wit, or your Honour!</p>
+                  <p>Sometime after this was written, coming to <hi>Oxford,</hi> I ſhow'd theſe Papers to a very Worthy Perſon of my Acquaintance, who hearing this read, told me, there was a caſe now freſh upon the Stage, like this, and ſhow'd me the Book call'd, the
+<pb n="31" facs="tcp:63741:25"/>
+                     <hi>Second Spira,</hi> where I ſaw dreadful<g ref="char:EOLhyphen"/>ly exempliſi'ed what I had been de<g ref="char:EOLhyphen"/>ſcribing, whether the matter be true or no.</p>
+                  <p>It doth pleaſe God ſometimes to gloriſie the Power of his Grace, by ſnatching a Brand out of the Fire, and ſhowing wicked Men a poſſibi<g ref="char:EOLhyphen"/>lity of Salvation: That though the Path be narrow, the Gate ſtreight and he muſt ſtrive, yet he may en<g ref="char:EOLhyphen"/>ter, and be received, if he will but knock hard enough.</p>
+                  <p>I have here ſubſcribed a Letter to my Purpoſe of the Earl of <hi>Marl<g ref="char:EOLhyphen"/>borough,</hi> a little before his Death in the Sea-Fight, 1665.</p>
+                  <floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <pb n="32" facs="tcp:63741:26"/>
+                        <head>To the Honourable Sir <hi>Hugh Pollard,</hi> Comptroler of His Majeſty's Houſhold.</head>
+                        <opener>
+                           <salute>SIR,</salute>
+                        </opener>
+                        <p>I <hi>Believe the Goodneſs of your Na<g ref="char:EOLhyphen"/>ture, and the Friendſhip you have always born me, will receive with kindneſs the laſt office of your Friend. I am in Health enough of Body and (through the Mercy of God in Jeſus Chriſt) well diſpoſed in mind. This I premiſe, that you may be ſatisfied, that what I write proceeds not from any Fantaſtick Terror of Mind, but from a ſober Reſolution of what con<g ref="char:EOLhyphen"/>cerns my ſelf, and earneſt deſire to do you more Good after my Death, than mine</hi> Example <hi>(God of his Mer<g ref="char:EOLhyphen"/>cy pardon the Badneſs of it) in my Life-time may do you harm.</hi>
+                        </p>
+                        <p>
+                           <hi>I will not ſpeak ought of the Vani<g ref="char:EOLhyphen"/>ty of this World, your own Age and Experience will ſave that Labour. But there is a certain thing that goeth up
+<pb n="33" facs="tcp:63741:26"/>and down the World, call'd</hi> Religion, <hi>dreſs'd and pretended Fantaſtically, and to Purpoſes bad enough, which yet, by ſuch evil Dealing loſeth not its</hi> Being.</p>
+                        <p>
+                           <hi>The Great Good God hath not left it</hi> without Witneſs, <hi>more or leſs, ſooner or later in every Man's Bo<g ref="char:EOLhyphen"/>ſom, to direct us in the purſuit of it; and hath given us His Holy Word, in which, as there are many things hard to be underſtood, ſo there is enough plain and eaſie to quiet our Minds, and direct us concerning our future Being.</hi>
+                        </p>
+                        <p>
+                           <hi>I confeſs to God and you, I have been a great Neglecter, and (I fear) Deſpiſer of it: God of His Infinite Mercy pardon me the dreadful Fault.</hi>
+                        </p>
+                        <p>
+                           <hi>But when I retired my ſelf from the noiſe and deceitful vanity of the World, I found no true Comfort in any other Reſolution than what I had from thence.</hi>
+                        </p>
+                        <p>
+                           <hi>I commend, from the bottom of my Heart, the ſame to your (I hope) happy uſe. Dear, Sir</hi> Hugh, <hi>let us be
+<pb n="34" facs="tcp:63741:27"/>more</hi> Generous <hi>than to believe we die as the Beaſts that Periſh; but with a Chriſtian Manly Brave Reſolution look to what is Eternal. I will not trou<g ref="char:EOLhyphen"/>ble you further. The only Great God, and Holy God, Father, Son, and Holy Ghoſt, direct you to an happy end of your Life, and ſend us a joyful Re<g ref="char:EOLhyphen"/>ſurrection, ſo prays</hi>
+                        </p>
+                        <closer>
+                           <signed>Your true Friend, Marleborough.</signed>
+                           <dateline>
+                              <hi>From the</hi> Old James, <hi>near the Coaſt of</hi> Holland, <date>Apr. 24. 1665.</date>
+                           </dateline>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <p>The Quality of the Perſon, the ſeriouſneſs, the Piety, and deſigned uſefulneſs of the Letter, together with the remarkable circumſtance of the Time in which it was writ<g ref="char:EOLhyphen"/>ten tacks it very well to the <hi>Sub<g ref="char:EOLhyphen"/>ject</hi> I am upon.</p>
+                  <p>It is Printed at the beginning of a ſmall Tract, called <hi>Fair Warning to a Careleſs World,</hi> Publiſhed by Dr. <hi>Lloyd,</hi> Printed for <hi>John Amery</hi> over-againſt St. <hi>Clement</hi>'s-Church in the <hi>Strand,</hi> 1673.</p>
+                  <p>
+                     <pb n="35" facs="tcp:63741:27"/>The Author hath Collected In<g ref="char:EOLhyphen"/>ſtances of all <hi>Conditions,</hi> Emperors, Kings, Philoſophers, Stateſmen, <hi>&amp;c.</hi> of all <hi>Religions,</hi> Jews, Ma<g ref="char:EOLhyphen"/>hometans, Heathens, Chriſtians, and of <hi>Good</hi> and <hi>Bad</hi> Men in each, to ſhow the opinion they had of a Life to come; and eſpecially how warmly that Opinion worked when they came to die: The Souls of young Gentlemen would feed upon ſuch Inſtances, gather Strength, and grow able to call Careleſneſs, Vice, and Atheiſm the greateſt Folly in the World.</p>
+                  <p>And I think it were a good ex<g ref="char:EOLhyphen"/>pedient to confirm the Good in their Love of Vertue, to read the late Diſquiſition of the <hi>Law of Na<g ref="char:EOLhyphen"/>ture,</hi> and the <hi>Confutation of Hobbs,</hi> Publiſhed by Mr. <hi>Tyrrel.</hi> And to convince the Bad of the danger of their Folly, I wiſh every Gentle<g ref="char:EOLhyphen"/>man would Command his Children ſeriouſly and frequently to read o<g ref="char:EOLhyphen"/>ver the Reflections on the Life, and the genteel and very uſeful Diſ<g ref="char:EOLhyphen"/>courſe
+<pb n="36" facs="tcp:63741:28"/>at the Funeral of the late Fa<g ref="char:EOLhyphen"/>mous Earl of <hi>Rocheſter,</hi> a Man al<g ref="char:EOLhyphen"/>ways wonderful whether Good or <hi>Bad:</hi> I hope I ſhall not offend by Naming him, ſince it is for the Glo<g ref="char:EOLhyphen"/>ry of God's Mercy to Him and His; and alſo ſince it was his own eſpe<g ref="char:EOLhyphen"/>cial Command to the <hi>Orator</hi> to make the Beſt of him in the Pulpit at any Rate that Poſterity might look upon him and learn to be <hi>Wiſe,</hi> and all the Kingdom grow better by his <hi>
+                        <g ref="char:V">Ʋ</g>ncommon</hi> Example.</p>
+                  <p>There are very good Reaſons to believe that his Education in his Youth was as carefully managed, as the Calamitous time he was Born in would permit; and to ſhow the power of Education, ſome of his moſt Intimate Companions, in the looſer part of his Life, have de<g ref="char:EOLhyphen"/>clared, That before he ſlept, he would continue the Cuſtom he had been bred up in of reading a Chap<g ref="char:EOLhyphen"/>ter in the Bible.</p>
+                  <p>But to ſay the truth, His Eyes were too tender to bear the migh<g ref="char:EOLhyphen"/>ty
+<pb n="37" facs="tcp:63741:28"/>Sun-ſhine he went out ſo early abroad into: He was <hi>too too Young</hi> to be truſted with the ſight of Vice and Atheiſin <hi>Dreſſed</hi> up with Wit, Beauty, and Honour: To ſee the <hi>Gantlet</hi> thrown againſt Heaven, and the <hi>Philiſtine</hi> traverſing the Ground to deſie the Hoſt of the living God: His <hi>Youthful</hi> Curioſity gazed too long, and went too <hi>near,</hi> and at laſt he was taken Priſoner, led away Captive, And for a while made Slave to the Cruel <hi>Tyranny</hi> of Cu<g ref="char:EOLhyphen"/>ſtom, Faſhion, and Example.</p>
+                  <p>But the great <hi>Shepherd</hi> of <hi>Iſrael</hi> would not ſuffer the <hi>Lamb</hi> to periſh in the Paw of the Lyon or the Bear, or the Devil to wear away a Jewel ſo rich as this. God had great things to do by him, and therefore darts a Ray from above into his Breaſt, ſoftens and Refines the Metal, and purgeth the Droſs, and like Saint <hi>Paul,</hi> makes him Preacher of the Cauſe he had ſo often aſſaulted, though with more violence to his own reaſon than theirs whom he
+<pb n="38" facs="tcp:63741:29"/>Thought to Baffle. He now tells the World that the time muſt come, when <hi>Mirth</hi> and <hi>Laughter</hi> ſhall ſay 'tis not in me, <hi>Honour</hi> 'tis not in me, and the <hi>greateſt Wit</hi> in the Kingdom, 'tis not in me: That the King of Terrors muſt make A<g ref="char:EOLhyphen"/>theiſin ſhrink and give back at <hi>Laſt,</hi> even at <hi>that time,</hi> when (if there were any thing in it) it ought to be more <hi>Daring,</hi> and moſt <hi>Bold</hi> of all.</p>
+                  <p>It was not <hi>Pain</hi> and <hi>Weakneſs,</hi> or Faintneſs of Spirits, which made him <hi>Good,</hi> for then it would have made him <hi>Dull</hi> too, but his Wit con<g ref="char:EOLhyphen"/>tinued to the laſt; he had more than there was ſtrength to ſhow; and his dying ſharpneſs was as great, as when the greateſt mixture of Mad<g ref="char:EOLhyphen"/>neſs compoſed the beſt Verſe he ever wrote.</p>
+                  <p>Therefore let his Memory be pre<g ref="char:EOLhyphen"/>cious, let the Wicked take the <hi>Pta<g ref="char:EOLhyphen"/>tern,</hi> and let the Spirit of God have the Praiſes of a <hi>ſound</hi> and <hi>ſincere Converſion,</hi> which the mournful
+<pb n="39" facs="tcp:63741:29"/>Courſes of his Life ſet off as ſhades do the Picture, and as the <hi>Dark</hi> ſide of the Cloud in <hi>Aegypt,</hi> without which the bright ſide had been no <hi>Miracle.</hi>
+                  </p>
+                  <p>And now 'tis full time to take my leave of the Gentry, asking Pardon for becoming their Adviſer; and begging that a good Intention may atone for what ever is eagerly and weakly ſpoken: I am ſure they would forgive me, did they but know how much I think an <hi>Engliſh</hi> Gentleman, <hi>Religiouſly, Vertuouſly,</hi> and <hi>Wiſely</hi> bred, the fineſt ſight in the World.</p>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:63741:30"/>
+                  <pb facs="tcp:63741:30"/>
+                  <p>
+                     <hi>New Inſtructions</hi> TO THE GUARDIAN, <hi>The Second Part.</hi>
+                  </p>
+                  <p>Containing an Eaſie METHOD FOR TEACHING A <hi>Young Gentleman</hi> FROM Three Years Old to Twenty One.</p>
+                  <p>
+                     <hi>London,</hi> Printed in the Year 1694.</p>
+               </div>
+            </front>
+            <body>
+               <div n="2" type="part">
+                  <div type="introductory_letter">
+                     <pb facs="tcp:63741:31"/>
+                     <pb facs="tcp:63741:31"/>
+                     <head>An Anſwer to a Letter from a Per<g ref="char:EOLhyphen"/>ſon of Quality.</head>
+                     <opener>
+                        <salute>Madam,</salute>
+                     </opener>
+                     <q>
+                        <p>I Received your Cenſure of the <hi>Guardian's Inſtructions,</hi> with a Duty becoming the Favour, and would have Printed it before this <hi>Second Part,</hi> but that this Per<g ref="char:EOLhyphen"/>formance will not endure ſuch Neighbourhood.</p>
+                        <p>I am ſorry that your Ladiſhip (who is the One only great Ex<g ref="char:EOLhyphen"/>ception to all I have written) ſhould fancy that You and your Son were in my Thoughts when my Pen drop'd the Vinegar Part of the Book, as you Phraſe what<g ref="char:EOLhyphen"/>ever Intrencheth on the Juriſdicti<g ref="char:EOLhyphen"/>on of the Women's Court. I am very willing to own that your La<g ref="char:EOLhyphen"/>diſhip is often in my Thoughts, but I take care that it be when I
+<pb n="44" facs="tcp:63741:32"/>am diſpoſed to think wiſeſt, which I fear the Ladies will never ſay was, when I wrote ſuch a Book as that.</p>
+                        <p>However, being neither Old nor Rich enough to ſet up for an Humour, and pretend to deſpiſe what Gentlewomen think of me, I do but beg the reaſonable liberty of a common Criminal, to explain my own meaning, and then it ſhall be found, that the worſt of my Deſign is, to ſave fine ſhap'd Gen<g ref="char:EOLhyphen"/>tlemen from having their Backs broken by too much Hugging.</p>
+                        <p>Your Ladiſhip Indicts me in the name of all your Sex, for Inſinu<g ref="char:EOLhyphen"/>ating that the Fondneſs of the Mother ſpoils the Son, as much as the Fondneſs of the Father ſpoils the Mother; or which is all one, where the Husband dotes, that is, thinks every one wiſe who is hand<g ref="char:EOLhyphen"/>ſom, and leaves his Wife to do what ſhe will with the Son, the Wife leaves the Son to do what he will with himſelf, and ſo pre<g ref="char:EOLhyphen"/>pares
+<pb n="45" facs="tcp:63741:32"/>the young Man to ſet up his Horſe at the Stews or a Tavern.</p>
+                        <p>To get rid of this Objection as well as I can, it is too late to repent of having diſcovered an Opinion which Scripture and Rea<g ref="char:EOLhyphen"/>ſon enclines me to, That the Man ſhould guide the Woman, he is Head, and a Man would think the Underſtanding ſhould be there. 'Tis true, Men in <hi>England</hi> have parted with this Prerogative, for you Ladies have Compounded for it with ſo much Beauty, that you have gotten an Empire over Huſ<g ref="char:EOLhyphen"/>bands here, unheard of in other Nations. I do not envy you this Power, or think it unjuſtly gotten, for I wiſh I were under the Do<g ref="char:EOLhyphen"/>minion of it my ſelf. But ſince this Monarchy Occonomical is a mix'd Monarchy, I would have due Limits adjuſted, and proper Shares allotted: I would not have the Husband be carefully looking after the roaſting of Eggs in the Kitchin, while the Wife is reading
+<pb n="46" facs="tcp:63741:33"/>Lectures of Politicks in the Parlor, to the Son; neither would I have the Son ſent for three times in the Week from School, to do nothing elſe but make Babies in his Mo<g ref="char:EOLhyphen"/>ther's Eyes for two hours together.</p>
+                        <p>I ſhall not here deſcribe all the various Shapes in which this Fond<g ref="char:EOLhyphen"/>ſhip appears; alas! that is the mortal Sin in the <hi>Guardian's In<g ref="char:EOLhyphen"/>ſtructions,</hi> which hath offered ſo much violence to the Chaſt Eyes of the Fair Sex, that this Sheet is the Penance for. And though I cannot, with a ſafe Conſcience, al<g ref="char:EOLhyphen"/>low Mothers ſo much liberty to ſpoil their Children as I would, yet I will make them amends for it with an Aequivalent; I will bring the beſt Reaſons they can have to plead for their Breeding up their Children, and ſhow that they can<g ref="char:EOLhyphen"/>not help being too Fond; and the more there is of Neceſſity, the leſs they are culpable; and if this doth not make my Peace, then I muſt conclude to live and die a
+<pb n="47" facs="tcp:63741:33"/>Batchellor. Thus then I will ſup<g ref="char:EOLhyphen"/>poſe you to argue.</p>
+                        <p>The Tenderneſs of our Sex, the great pain in Breeding, and Tor<g ref="char:EOLhyphen"/>ments of our Travail, the delight of being eaſed of thoſe Pains, and ſeeing the Fruit of our Labour, the infinite Care and Trouble, ne<g ref="char:EOLhyphen"/>ceſtitous Infancy requires from the Mother, whilſt the Father walks about and Whiſtles, with his hands in his Pockets, the Pleaſure of ſee<g ref="char:EOLhyphen"/>ing the growing little Actions and firſt Eſſays of Knowledge, theſe things cannot but heighten our Affection, and make it too loud for Reaſon; and we may claim as the Mother's due, the comfort of his Tatling, for the trouble of his Crying, and unanſwerably con<g ref="char:EOLhyphen"/>clude, that no Perſon can be ſitter to manage the Child when he can ſpeak, than ſhe which taught him firſt to do ſo.</p>
+                        <p>I confeſs, How an Husband who is as fond of his Lady as he ought to be, can deal with ſuch Logick
+<pb n="48" facs="tcp:63741:34"/>as this, is beyond my Experience: And to make you amends once for all, I will frankly confeſs that Wo<g ref="char:EOLhyphen"/>men's natural Wit is as brisk as ours. I will not ſay Brisker: The ſharp<g ref="char:EOLhyphen"/>neſs of a Daughter is beyond that of a Son of more Years: Indeed afterwards the greater freedom of Converſation, Hearding in Societies, and Feeding one another with Ob<g ref="char:EOLhyphen"/>ſervation and Experience in the World, give our Sex thoſe Ad<g ref="char:EOLhyphen"/>vantages which Women want: But ſince the Law of the Creation doth not think you fit to be truſted with this Improvement, for fear you ſhould manage your Know<g ref="char:EOLhyphen"/>ledge as ill as you firſt obtained it: You muſt excuſe me, if I can<g ref="char:EOLhyphen"/>not force my ſelf to believe, that the Husband ought not to be wiſer than the Wife.</p>
+                        <p>My Service to Mr. <hi>William,</hi> and tell him I hope to ſee him prove a more material Objection to the <hi>Guardian's Inſtructions,</hi> than I have met withal yet.</p>
+                        <p>
+                           <pb n="49" facs="tcp:63741:34"/>And now, Madam, I know the length of that Apology which ought to be made for treating ſo much Excellency with a Style thus Familiar: But that I am confident it is impoſſible for your Ladiſhip to be diſcovered without your own Conſent: For I have com<g ref="char:EOLhyphen"/>pelled my ſelf to a Vow of fore<g ref="char:EOLhyphen"/>going the ſatisfaction which I could eaſily make my ſelf envied for, by Publiſhing the Honour of Correſponding with ſo much Worth, and ſubſcribing,</p>
+                     </q>
+                     <closer>
+                        <signed>Your Ladiſhip's, moſt Affectionately Devoted.</signed>
+                     </closer>
+                  </div>
+                  <div type="section">
+                     <pb n="50" facs="tcp:63741:35"/>
+                     <head>The Firſt Stage.</head>
+                     <head>New Inſtructions to the Guardian.</head>
+                     <p n="1">1. THE Two things to be pra<g ref="char:EOLhyphen"/>ctiſed upon in the Breed<g ref="char:EOLhyphen"/>ing up a Gentleman, are, Good Manners, and Knowledge: It is not my deſign in this ſmall Tract to meddle with Morality, and the Dutiful or Adviſeable Practices of the Reſpective Behaviour of Child<g ref="char:EOLhyphen"/>hood, Youth, and Riper Years, ei<g ref="char:EOLhyphen"/>ther at Home, or in the Univerſi<g ref="char:EOLhyphen"/>ty or Country, and that in Private or Publick Conditions; for this was the buſineſs of <hi>The Guardian's Inſtructions,</hi> the Method, Manage<g ref="char:EOLhyphen"/>ment and Parts of which may be known by the Preface before the Book, or the Index at the end of it.</p>
+                     <p n="2">2. My concern therefore at pre<g ref="char:EOLhyphen"/>ſent is, with the Knowledge of a
+<pb n="51" facs="tcp:63741:35"/>Child, and to reduce my own Ob<g ref="char:EOLhyphen"/>ſervation (with juſt Deference to others) into ſome Rules to help at firſt, and afterward to improve the Natural deſire of Knowledge, which diſcovers it ſelf with the firſt ex<g ref="char:EOLhyphen"/>erciſe of Reaſon.</p>
+                     <p>The Rules are Few and Eaſie, becauſe the eager Appetite after Novelty is heightened by the Plea<g ref="char:EOLhyphen"/>ſure which attends it; ſo that if it be burdened with the Number, or ſtifled with the Difficulty of Inſtru<g ref="char:EOLhyphen"/>ctions, Diſtruſt will make the De<g ref="char:EOLhyphen"/>fire more indifferent, and the Pro<g ref="char:EOLhyphen"/>greſs more moderate.</p>
+                     <p n="3">3. For Method ſake I have mea<g ref="char:EOLhyphen"/>ſured out One and Twenty Years, by ſuch diſtinct Stages as I thought convenient, with Directions agree<g ref="char:EOLhyphen"/>able to each Interval.</p>
+                     <p>How to treat a Child from his beginning to Read 'till Six Years old, from Six to Fourteen, from Fourteen to One and Twenty: Theſe Diſtances are calculated for
+<pb n="52" facs="tcp:63741:36"/>the common Capacity of Human Nature, not for the Gigantick rea<g ref="char:EOLhyphen"/>ches of ſome ſingular Prodigies of Parts, who do Wonders from the Cradle, and early ſtride over one of theſe Stages in a Breath; and if they did not haſten as faſt to Die, would want Matter to know be<g ref="char:EOLhyphen"/>fore they come of Age. He who will undertake to preſcribe juſt Rules for ſuch Abilities as theſe, were beſt firſt to take good care to be ſomewhat like them himſelf.</p>
+                  </div>
+                  <div type="section">
+                     <head>The Firſt Stage.</head>
+                     <head>
+                        <hi>For</hi> Engliſh.</head>
+                     <p>AS ſoon as ever the Child is a<g ref="char:EOLhyphen"/>ble to ſpeak ſeveral Words plain, let him be taught his Letters.</p>
+                     <p n="1">1. By this means he will grow able much ſooner, and with much more eaſe, to Apprehend and Pro<g ref="char:EOLhyphen"/>nounce all manner of Words, than
+<pb n="53" facs="tcp:63741:36"/>he would otherwiſe doe, from the confuſion of a bare Family-Noiſe: Wherein the frequent difference of Tones, and the haſty Abbrevia<g ref="char:EOLhyphen"/>tions of Words, in the common rambling Talk, make the Child apt to miſtake one Word or Sylla<g ref="char:EOLhyphen"/>ble for another, and ſo make it much longer before he come to ſpeak perfectly well, than it will be after he be thus ſomewhat prepa<g ref="char:EOLhyphen"/>red, to obſerve, apprehend, and catch at the Pronunciation of the Syllables he hears.</p>
+                     <p n="2">2. This will be a means to put ſome ſtop to the perpetual Motion and Hurry a Child is in all the Day long, which is good for no<g ref="char:EOLhyphen"/>thing but to make the Nurſe ſleep well. For tho' it looks ſomewhat diverting to ſee a Child brisk, yet if his Motion be too Violent, or too Frequent, it will keep his Brains in an everlaſting Tumult, and put him ſo many degrees back from thinking. Whereas if he did but breath now and then on the Horn
+<pb n="54" facs="tcp:63741:37"/>Book, this would help to fix the Mercury of his Idle Soul, give the Spirits time to ſettle, and inſenſi<g ref="char:EOLhyphen"/>bly make preparation for as much reſemblance of ſome kind of Seri<g ref="char:EOLhyphen"/>ouſneſs as every degree of Tame<g ref="char:EOLhyphen"/>neſs in Childhood can promiſe. And the Pauſes at firſt between e<g ref="char:EOLhyphen"/>very Letter, and afterwards the di<g ref="char:EOLhyphen"/>ſtinctive Points in Sentences, which the Child ought to be carefully taught to obſerve, will bridle the Infant-Eartleſtneſs, make him look as if he did conſider, and in time make him really do ſo; and I can<g ref="char:EOLhyphen"/>not but blame the common Pra<g ref="char:EOLhyphen"/>ctice. It is thought a kind of Per<g ref="char:EOLhyphen"/>fection in Reading, if the Child read loud and faſt; beſide the in<g ref="char:EOLhyphen"/>decency of each, one begets an ill<g ref="char:EOLhyphen"/>becoming Tone, and the other hin<g ref="char:EOLhyphen"/>ders the minding the Senſe and Truth of what is read.</p>
+                     <p n="3">3. When you begin with a Child, do not clog him with too <hi>much;</hi> let him come to his Book as to his Re<g ref="char:EOLhyphen"/>creation: That the frequent exer<g ref="char:EOLhyphen"/>ciſe
+<pb n="55" facs="tcp:63741:37"/>of Memory in Perſons of Diſ<g ref="char:EOLhyphen"/>cretion helps it, cannot be denied; but burdening a tender memory doth not ſo: the delight which is taken in Performances will ſtrengthen the Faculty; but tireing of it weakens the ſame. The Mind of a Child is to be dieted like his Stomach, little and often; for ful<g ref="char:EOLhyphen"/>neſs creates heavineſs, and that is but another name for dulneſs; nay ſometimes a Surfeit follows it; now a Surfeit in the beginning of Learning is fatal. If he dread and loath his Book, if ever you intend to make him a great Man, you muſt be ſure to provide him a good Clark.</p>
+                     <p n="4">4. Foraſmuch as the unexperi<g ref="char:EOLhyphen"/>enced Apprehenſion of a Child is weak and tardy, the Elements of Inſtruction ought to be very ſimple and eaſie: For Difficulty and Diſ<g ref="char:EOLhyphen"/>couragement begin with the ſame Letter. And therefore tho' I were ſure to have my Eyes ſcratcht out the next Moment, I cannot forbear
+<pb n="56" facs="tcp:63741:38"/>ſpeaking irreverently of the Grave <hi>Horn-Book</hi> in uſe, which brings in the Country School-Dames ſo many Groats a Week: For the mixing the Great and Small Letters at firſt teaching, and putting down the ſame Letter in different Figures, as <hi>R. S.</hi> and <hi>
+                           <g ref="char:V">Ʋ</g>,</hi> &amp;c. muſt needs di<g ref="char:EOLhyphen"/>ſtract an Infant, and make him keep the Straw much longer in his Fingers than he need to do.</p>
+                     <p>One Caution I cannot fail of putting in here: There are certain Letters which ſome Children can<g ref="char:EOLhyphen"/>not ſo ſoon learn to pronounce as they do the others, eſpecially <hi>R.</hi> and <hi>L.</hi> if you find that this is not out of heedleſneſs only, but ſome kind of unuſual Difficulty, go on at preſent without them (they will come in time) and do not ſtop the Child's progreſs, 'till he get the Pronunciation of theſe two Letters alſo, for you know not how much time you may hin<g ref="char:EOLhyphen"/>der him of.</p>
+                     <p>
+                        <pb n="57" facs="tcp:63741:38"/>After he is perfect in his Letters, let him Spell as follows:</p>
+                  </div>
+                  <div type="prayer">
+                     <head>Lord's Prayer.</head>
+                     <p>OUR Fa-ther Father, which art in Hea-ven Heaven; Hal<g ref="char:EOLhyphen"/>low-ed Hallowed be thy Name: Thy King-dom Kingdom come; Thy Will be done on Earth as it is in Hea-ven Heaven: Give us this Day our Day-ly Dayly Bread; and for-give forgive us our Treſ-paſ-ſes Treſpaſſes, as we for-give forgive them that Treſ-paſs Treſpaſs a-gainſt againſt us; and lead us not in-to into Temp-ta-ti-on Temptation: But de-li-ver deliver us from E-vil Evil. <hi>A-men Amen.</hi>
+                     </p>
+                  </div>
+                  <div type="creed">
+                     <head>The Creed.</head>
+                     <p>I Be-lieve Believe in God the Fa<g ref="char:EOLhyphen"/>ther Father Al-migh-ty Almigh<g ref="char:EOLhyphen"/>ty, Ma-ker Maker of Hea-ven Hea<g ref="char:EOLhyphen"/>ven and Earth; and in <hi>Je-ſus Je<g ref="char:EOLhyphen"/>ſus Chriſt</hi> his on-ly only Son our
+<pb n="58" facs="tcp:63741:39"/>Lord; who was con-cei-ved con<g ref="char:EOLhyphen"/>ceived by the Ho-ly Holy Ghoſt, born of the Vir-gin Virgin <hi>Ma-ry Mary;</hi> ſuf-fer-red ſuffered un-der under <hi>Pon-ti-us Pontius Pi-late Pi<g ref="char:EOLhyphen"/>late,</hi> was Cru-ci-ſi-ed Crucified dead and bu-ri-ed buried; he de<g ref="char:EOLhyphen"/>ſeen-ded deſcended in-to into Hell, the third Day he roſe a-gain again from the dead; he a-ſeen-ded a<g ref="char:EOLhyphen"/>ſcended in-to into Hea-ven Hea<g ref="char:EOLhyphen"/>ven, and ſit-teth ſitteth on the Right Hand of God the Fa-ther Father Al-migh-ty Almighty, from thence he ſhall come to judge both the Quick and the Dead; I be<g ref="char:EOLhyphen"/>lieve believe in the Ho-ly Holy Ghoſt, the Ho-ly Holy Ca-tho-lick Catholick Church, the Com-mu-ni-on Communion of Saints, the for-give-neſs forgiveneſs of Sins, the Re-ſur-re-ction Reſurrection of the Bo-dy Body, and the Life ever<g ref="char:EOLhyphen"/>la-ſting, everlaſting, <hi>A-men Amen.</hi>
+                     </p>
+                  </div>
+                  <div type="Ten_Commandments">
+                     <pb n="59" facs="tcp:63741:39"/>
+                     <head>The Ten Com-mand-ments Co mmand ments.</head>
+                     <p n="1">I. THou ſhalt have no o-ther other Gods be-fore before me.</p>
+                     <p n="2">II. Thou ſhalt not make un-to unto thy ſelf a-ny any Gra<g ref="char:EOLhyphen"/>ven Graven I-mage Image, or the like-neſs likeneſs of a-ny any thing that is in Hea-ven Heaven a-bove above, or that is in the Earth be-neath beneath, or that is in the Wa-ter Water un-der under the Earth; thou ſhalt not bow down thy ſelf to them, nor ſerve them; for I the Lord thy God am a jea-lous jealous God, vi-ſi-ting viſiting the I-ni-qui-ty Iniquity of the Fa-thers Fathers, up-on upon the Chil-dren Children un-to unto the Third and Fourth Ge-ne-ra-ti-on Generation of them that hate me, and ſhew-ing ſhewing Me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cy Mercy un-to unto Thou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nds Thorſands of them that love me
+<pb n="60" facs="tcp:63741:40"/>and keep my Com-mand-ments Commandments.</p>
+                     <p n="3">III. Thou ſhalt not take the Name of the Lord thy God in vain, for the Lord will not hold him guilt-leſs guiltleſs that ta-keth ta<g ref="char:EOLhyphen"/>eth his Name in vain.</p>
+                     <p n="4">IV. Re-mem-ber Remember the Sab-bath Sabbath day to keep it Ho-ly Holy, Six Days ſhalt thou la-bour labour and do all thy Work, but the Se-venth Seventh Day is the Sab-bath Sabbath of the Lord thy God; in it thou ſhalt not do a-ny any Work, thou, nor thy Son, nor thy Daugh-ter Daughter, thy Man-Ser-vant Man-ſervant, nor thy Maid-ſer-vant Maid-ſervant, nor thy Cat-tel Cattel, nor the Stran-ger Stranger that is with-in within thy Gates; for in Six Days the Lord made Hea-ven Heaven and Earth, the Sea, and all that in them is, and re-ſted reſted the Se<g ref="char:EOLhyphen"/>venth Seventh Day; where-fore wherefore the Lord bleſ-ſed bleſſed the Se-venth Seventh Day, and Hal-low-ed it.</p>
+                     <p n="5">
+                        <pb n="61" facs="tcp:63741:40"/>V. Ho-nour Honour thy Fa-ther Father and thy Mo-ther Mother, that thy Days may be long up-on upon the Land which the Lord thy God gi-veth giveth thee.</p>
+                     <p n="6">VI. Thou ſhalt not kill.</p>
+                     <p n="7">VII. Thou ſhalt not com-mit commit A-dul-te-ry Adultery.</p>
+                     <p n="8">VIII. Thou ſhalt not Steal.</p>
+                     <p n="9">IX. Thou ſhalt not bear falſe Wit-neſs Witneſs a-gainſt againſt thy Neigh-bour Neighbour.</p>
+                     <p n="10">X. Thou ſhalt not co-vet covet thy Neigh-bour's Neighbour's Houſe, thou ſhalt not co-vet covet thy Neigh-bour's Neighbour's Wife, nor his Man-ſer-vant Man-ſervant, nor his Maid-ſer-vant Maid-ſervant, nor his Ox, nor his Aſs, nor a-ny any thing that is thy Neigh-bours Neighbours.</p>
+                     <p>Glo-ry Glory be to the Fa-ther Father, and to the Son, and to the Ho-ly Holy Ghoſt.</p>
+                     <p>As it was in the be-gin-ning be<g ref="char:EOLhyphen"/>ginning is now, and e-ver ever ſhall be, World with-out without end. <hi>A-men Amen.</hi>
+                     </p>
+                     <p>
+                        <pb n="62" facs="tcp:63741:41"/>The Grace of our Lord Je-ſus Jeſus Chriſt, and the Love of God, and the Fel-low-ſhip Fellowſhip of the Ho-ly Holy Ghoſt be with us all e-ver-more evermore <hi>A-men Amen.</hi>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <head>The Church Catechiſm after this.</head>
+                     <p>This is a method, the eaſieſt I could think of, for a Child at firſt to be taught in. And here I leave him to be farther perfected in this Language, by uſeful Books to this purpoſe.</p>
+                     <p>If any Man complain that I might have ſpent my time on bigger and louder Subjects; let him read the Catalogues of Famous Men, col<g ref="char:EOLhyphen"/>lected by <hi>Elzevir, Crenius, Morhofus</hi> and others: And then he will pardon a Man of my Size.</p>
+                  </div>
+                  <div type="section">
+                     <pb n="63" facs="tcp:63741:41"/>
+                     <head>The ſecond Stage.</head>
+                     <head>From Six to Fourteen.</head>
+                     <p>AFter the Child can read the Bible, (which may be pre<g ref="char:EOLhyphen"/>ſumed about ſix Years of Age) let him immediately fall to <hi>Latin:</hi> And becauſe <hi>Latin</hi> cannot go down ſo eaſily as <hi>Engliſh,</hi> which is the fa<g ref="char:EOLhyphen"/>miliar Language of the whole Fa<g ref="char:EOLhyphen"/>mily, and which the Childs Neceſ<g ref="char:EOLhyphen"/>ſities make him earneſt to under<g ref="char:EOLhyphen"/>ſtand; I therefore think it conve<g ref="char:EOLhyphen"/>nient that this dry and tough Diet be larded now and then with ſome <hi>Engliſh</hi> Exerciſes, which may be diverting and uſeful alſo; which I thought fit to prefix before the Rules for learning <hi>Latin</hi> and <hi>Greek.</hi>
+                     </p>
+                     <p n="1">1. It will be fit now to fix his Memory by ſome ſuch like Method as this which follows, repeating the things over once every day.</p>
+                     <p>
+                        <pb n="64" facs="tcp:63741:42"/>From the Creation of the World, to the great Flood of <hi>Noah.</hi> The Firſt Chapter of <hi>Geneſis</hi> to the Seventh.</p>
+                     <p>From <hi>Noah</hi>'s Flood, to <hi>Abra<g ref="char:EOLhyphen"/>ham</hi>'s going into the promiſed Land. <hi>Geneſis</hi> the ſeventh Chapter to the twelfth.</p>
+                     <p>From <hi>Abraham</hi>'s going into the promiſed Land, to <hi>Jacob</hi>'s going into <hi>Aegypt,</hi> to <hi>Joſeph</hi> his Son. <hi>Geneſis</hi> the Twelfth Chapter, to the Forty ſixth.</p>
+                     <p>From <hi>Jacob</hi>'s going down into <hi>Aegypt,</hi> to the deliverance of the <hi>Iſraelites</hi> from <hi>Aegypt</hi> by <hi>Moſes. Geneſis</hi> the forty ſixth Chapter, to the thirteenth Chapter of <hi>Exodus.</hi>
+                     </p>
+                     <p>From <hi>Moſes</hi> carrying the <hi>Iſraelites</hi> out of <hi>Aegypt,</hi> to <hi>Joſhua</hi>'s bringing them into the promiſed Land, over the River <hi>Jordan.</hi> The thirteenth Chapter of <hi>Exodus,</hi> to the fourth Chapter of the Book of <hi>Joſhua.</hi>
+                     </p>
+                     <p>From <hi>Joſhua</hi>'s carrying the <hi>Iſra<g ref="char:EOLhyphen"/>clites</hi> into the promiſed Land, to <hi>Saul</hi> the firſt King of the <hi>Iſraelites</hi> anointed by <hi>Samuel.</hi> The fourth
+<pb n="65" facs="tcp:63741:42"/>Chapter of the Book of <hi>Joſhua,</hi> to the firſt Book of <hi>Samuel</hi> and the tenth Chapter.</p>
+                     <p>From <hi>Saul</hi>'s being annointed King of <hi>Iſnael,</hi> to the Dividing of the King<g ref="char:EOLhyphen"/>dom by the Ten Tribes running a<g ref="char:EOLhyphen"/>way to <hi>Jeroboam:</hi> the firſt Book of <hi>Samuel</hi> and the tenth Chapter, to the firſt Book of Kings and the twelfth Chapter.</p>
+                     <p>From the Diviſion of the King<g ref="char:EOLhyphen"/>dom under <hi>Jeroboam,</hi> to the Deſtru<g ref="char:EOLhyphen"/>ction of the <hi>Iſraelites</hi> and <hi>Samaria</hi> by the King <hi>of Aſſyria.</hi> The firſt Book of <hi>Kings,</hi> the twelfth Chap<g ref="char:EOLhyphen"/>ter, to the ſecond Book of <hi>Kings,</hi> and the eighteenth Chapter.</p>
+                     <p>From the Deſtruction of the <hi>Iſraelites,</hi> to the the Deſtruction of <hi>Jeruſalem</hi> and the <hi>Jews.</hi> The ſe<g ref="char:EOLhyphen"/>cond Book of <hi>Kings,</hi> the eight<g ref="char:EOLhyphen"/>teenth Chapter, to the ſecond of <hi>Kings,</hi> the twenty fifth Chapter.</p>
+                     <p>From the Deſtruction of <hi>Jeruſa<g ref="char:EOLhyphen"/>lem</hi> and the <hi>Jews,</hi> to <hi>Cyrus</hi> delivering the <hi>Jews</hi> from Captivity. The ſecond Book of the <hi>Kings,</hi> the
+<pb n="66" facs="tcp:63741:43"/>twenty fifth Chapter, to the firſt Chapter of the Book of <hi>Ezra.</hi>
+                     </p>
+                     <p>From the Deliverance of the <hi>Jews</hi> from Captivity by <hi>Cyrus</hi> King of the <hi>Perſians,</hi> to the Deſtruction of the <hi>Perſian</hi> Empire by <hi>Alexander</hi> the Great. The firſt Chapter of the Book of <hi>Ezra,</hi> to the firſt Chapter of the firſt Book of <hi>Maccabes.</hi>
+                     </p>
+                     <p>From the Deſtruction of the <hi>Perſian</hi> Empire by <hi>Alexander</hi> the Great, to <hi>Judas Maccabaeus.</hi> The firſt Chapter of the firſt Book of <hi>Maccabes,</hi> to the firſt Book of <hi>Mac<g ref="char:EOLhyphen"/>cabes</hi> and the third Chapter.</p>
+                     <p>From <hi>Judas Maccabaeus</hi> to <hi>Jeſus Chriſt.</hi> The firſt of <hi>Maccabees</hi> the third, to the firſt Chapter of St. <hi>Mattew.</hi>
+                     </p>
+                     <p>As the Child grows up, and Me<g ref="char:EOLhyphen"/>mory ripens, you may add the Years from time to time, and fill up theſe diſtances with more or fewer Par<g ref="char:EOLhyphen"/>ticulars; according to the Method of the <hi>Apparatus ad Theologiam,</hi> pag. 102. And practice him in the Years after Chriſt by Centuries on<g ref="char:EOLhyphen"/>ly, from one Emperor to another.</p>
+                     <p n="2">
+                        <pb n="67" facs="tcp:63741:43"/>2. Becauſe nothing more con<g ref="char:EOLhyphen"/>tributes to the enlarging of a Childs Capacity than variety of Matter, though in things at firſt not fully underſtood, it may be uſeful be<g ref="char:EOLhyphen"/>tween whiles to pratle with him at ſuch a rate as this.</p>
+                     <p>Take the Figures from 1, 2, 3, <hi>&amp;c.</hi> to 12. and place under each Fi<g ref="char:EOLhyphen"/>gure ſuch things promiſcuouſly, as fall under every Number. As for Example</p>
+                     <p n="1">I.</p>
+                     <p>One World.</p>
+                     <p>One God.</p>
+                     <p>One Mediator, <hi>&amp;c.</hi>
+                     </p>
+                     <p n="2">II.</p>
+                     <p>Two Teſtaments.</p>
+                     <p>Two Tables in the Command<g ref="char:EOLhyphen"/>ments.</p>
+                     <p>Two Sacraments in the New Teſtament.</p>
+                     <p n="3">III.</p>
+                     <p>Three Perſons in the Bleſſed Tri<g ref="char:EOLhyphen"/>nity.</p>
+                     <p>
+                        <pb n="68" facs="tcp:63741:44"/>Three Creeds or Summs of Faith in the Trinity.</p>
+                     <p>Three Offices of Chriſt; King, Prieſt, Prophet.</p>
+                     <p n="4">IV.</p>
+                     <p>Four Parts of the World.</p>
+                     <p>Four Great Monarchies of the World.</p>
+                     <p>Four Elements.</p>
+                     <p n="5">V.</p>
+                     <p>Five Books of <hi>Moſes</hi>
+                     </p>
+                     <p>Five Senſes.</p>
+                     <p>Five Declenſions of Nouns.</p>
+                     <p n="6">VI.</p>
+                     <p>Six Days for the Creation.</p>
+                     <p>Six Days in the Week for Labour.</p>
+                     <p n="7">VII.</p>
+                     <p>Seven Churches of <hi>Aſia.</hi>
+                     </p>
+                     <p>Seven Wiſe Men of <hi>Greece.</hi>
+                     </p>
+                     <p>Seven Kings of <hi>Rome.</hi>
+                     </p>
+                     <p n="8">VIII.</p>
+                     <p>Eight Perſons ſaved in <hi>Noah</hi>'s Ark.</p>
+                     <p>
+                        <pb n="69" facs="tcp:63741:44"/>Eight Days for Circumciſion.</p>
+                     <p>Eight Parts of Speech in <hi>Latin.</hi>
+                     </p>
+                     <p n="9">IX.</p>
+                     <p>Nine Muſes.</p>
+                     <p n="10">X.</p>
+                     <p>Ten Commandments.</p>
+                     <p n="11">XI.</p>
+                     <p n="12">XII</p>
+                     <p>Twelve Patriarchs.</p>
+                     <p>Twelve Tribes of <hi>Iſrael.</hi>
+                     </p>
+                     <p>Twelve Apoſtles.</p>
+                     <p>More under each Figure you may add, and occaſionally explain the Par<g ref="char:EOLhyphen"/>ticulars: As for inſtance, under the Figure (1) One World; becauſe ſome pleaded for infinite Worlds. One God becauſe the Heathen wor<g ref="char:EOLhyphen"/>ſhipped many falſe Gods. One Me<g ref="char:EOLhyphen"/>diator becauſe the Papiſts have many.</p>
+                     <p n="3">
+                        <pb n="70" facs="tcp:63741:45"/>3. Becauſe of all inſtruction, there is nothing ſo much to be con<g ref="char:EOLhyphen"/>ſidered as the Morals of a Child both for true Happineſs here, and hereafter; beſides the Directions every where in the <hi>Guardians In<g ref="char:EOLhyphen"/>ſtructions.</hi> As ſoon as ever the Child ſeems to ſtare about, that is, as ſoon as ever he is capable of Ob<g ref="char:EOLhyphen"/>ſervation and Reflection, I would have the Tutor take <hi>Solomon</hi>'s Proverbs, eſpecially ſuch as reſpect God, Religion, Good Manners, Civil Breeding and Duty in all Relations, and Enlarge on, and explain them (according to the Lord <hi>Bacon</hi>'s method in his Ad<g ref="char:EOLhyphen"/>vancement) on the Sundays and Holydays: Perhaps it may be won<g ref="char:EOLhyphen"/>dered at, why I diſtinguiſh this Exerciſe by the particular time of performing it: Truly it is to beget an early veneration for the Sabbath and holy Feſtivals</p>
+                     <p>For when a Child is accuſtomed to a more Solemn and Religious Inſtruction upon ſome days than
+<pb n="71" facs="tcp:63741:45"/>others, he will in time begin to conſider why ſo; and being taught the Occaſion and the Reaſon, per<g ref="char:EOLhyphen"/>haps may love and obſerve ſuch times the better for it as long as he lives.</p>
+                     <p n="4">4. Another diverting exerciſe for a Child is that of <hi>Writing,</hi> which will profitably fill up ſome idle Hours; a Muſcular Motion, the ſooner the better it is begun.</p>
+                     <p>Though it be allmoſt Proverbi<g ref="char:EOLhyphen"/>al, That Scholars Write ill, yet three Parts of the Kingdom take a good Hand to be ſome degree of Lear<g ref="char:EOLhyphen"/>ning; and it is no diſparagement to good Sence to be written in a fair Character, and read with plea<g ref="char:EOLhyphen"/>ſure; eſpecially if he prove an Au<g ref="char:EOLhyphen"/>thor, and write Books, it will ſave many a curſe from the Compoſi<g ref="char:EOLhyphen"/>tor.</p>
+                     <p>Theſe and the following Dire<g ref="char:EOLhyphen"/>ctions may ſerve private Schools as well as Families; eſpecially if true care be taken to place Chil<g ref="char:EOLhyphen"/>dren of near the ſame Age, and
+<pb n="72" facs="tcp:63741:46"/>the ſame Capacities in one Claſs, wherein the Inſtructions being e<g ref="char:EOLhyphen"/>qually intelligible may beget a laudable Aemulation, and brisk the Spirits, which by careleſneſs would ſtagnat, and lie unactive. And on the other ſide, when a Youth of leſs Age (though perhaps as good Natural Parts) ſhall be forced eve<g ref="char:EOLhyphen"/>ry Hour to do the pennance of Admiring the great Performances and Commendations of the Scho<g ref="char:EOLhyphen"/>lar who ſits next him: The firſt effect of this is, he often wiſhes he could do the ſame, but afterward ſighs becauſe he cannot; this be<g ref="char:EOLhyphen"/>gets a kind of ſhame and diſcon<g ref="char:EOLhyphen"/>tent, which makes his little Soul retire and hide it ſelf; he acts what he could do with leſs of Spirit, and quarrels the Stars for not be<g ref="char:EOLhyphen"/>ing born as wiſe as he who is Five Years older.</p>
+                     <p>I would have the Immoralities and Negligence of Youth puniſhed ſeverely; but as to their Meer Parts and Natural Abilities, all the kind<g ref="char:EOLhyphen"/>neſs
+<pb n="73" facs="tcp:63741:46"/>and encouragement in the World is but enough.</p>
+                     <p>There are many more particu<g ref="char:EOLhyphen"/>lars very proper to have been Added here, but I referr the Tu<g ref="char:EOLhyphen"/>tor to the general directions for the better breeding a Child of great Quality in the <hi>Guardian's Inſtruction, pag.</hi> 65.</p>
+                     <p>One Advice I muſt conclude the Child's <hi>Engliſh</hi> Exerciſes with. Af<g ref="char:EOLhyphen"/>ter he hath paid his Devotion in the Morning, and before he doth it at Night, let him conſtantly read a Chapter: Great is the Influence of ſuch a Practice. I have been told of Perſons noted for extravagance of Atheiſm and Immorality, who have yielded to the Impreſſions of ſuch a Cuſtom, retired to ſay their Prayers and read a Chapter, when<g ref="char:EOLhyphen"/>as before and after this, they would diſpute God's Being and Provi<g ref="char:EOLhyphen"/>dence, and return with the Dog to their Vomit, and with the Sow to their wallowing in the Mire.</p>
+                     <p>
+                        <pb n="74" facs="tcp:63741:47"/>It is expedient that thoſe Chap<g ref="char:EOLhyphen"/>ters be frequently read, which may fix in the Memory ſuch great Ex<g ref="char:EOLhyphen"/>amples as make God's Providence illuſtrious, either for miraculous De<g ref="char:EOLhyphen"/>liverances of good Men, ſuch as are <hi>Joſeph, Moſes, Hezechiah, Daniel;</hi> or for Puniſhing notorious Sins, as the Rebellion of <hi>Corah,</hi> Oppreſ<g ref="char:EOLhyphen"/>ſion of <hi>Ahab,</hi> Pride of <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar,</hi> Sacrilege of <hi>Belſhazzar,</hi> Cruelty of <hi>Haman,</hi> Lying of <hi>Ana<g ref="char:EOLhyphen"/>nias</hi> and <hi>Saphira,</hi> &amp;c. The Plea<g ref="char:EOLhyphen"/>ſure of ſuch kind of Readings will make a Child mind the Senſe, and perhaps may render the Remem<g ref="char:EOLhyphen"/>brance very inſtructive.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>Directions for Learning</hi> Latin <hi>and</hi> Greek.</head>
+                     <p>THE Rules of Grammar for learning <hi>Latin,</hi> and the Ex<g ref="char:EOLhyphen"/>plication of thoſe Rules have been performed well already, and it is
+<pb n="75" facs="tcp:63741:47"/>not for me to pretend to that Art; I ſhall Maſter my Deſign if I can but ſuggeſt any thing that may be uſeful to make the Practice of thoſe Rules eaſier for the Gentry.</p>
+                     <p>For I have often heard from Gentlemen who have travailed, that Children in the Schools abroad come ſooner much to underſtand <hi>Latin</hi> than here in <hi>England:</hi> I know bet<g ref="char:EOLhyphen"/>ter than to queſtion the truth of what comes well atteſted; I only wiſh to be able to prevent ſome of thoſe Impediments which make the difference.</p>
+                     <p n="1">1. Some alleage for an occaſion of it the Foggyneſs of our Air, and foul Feeding, as if (forſooth) the Soul of an <hi>Engliſh</hi> Child were mired, and ſo ſtuck (as it were) in a Muddy Carcaſe as to move more heavily. But this I will ne<g ref="char:EOLhyphen"/>ver endure for a reaſon of the thing, becauſe our Youths would then never be able to overtake theſe haſty Sparks, which 'tis certain they do when they grow; and if
+<pb n="76" facs="tcp:63741:48"/>I were not an <hi>Engliſhman,</hi> I would aſſert that they out-go them gene<g ref="char:EOLhyphen"/>rally in that Language. And what Nation in <hi>Europe</hi> need we envy the Profeſſors in all Arts and Sciences, Divinity, Mathematicks, Civil Law, Phyſick, Critical and Philological Learning: So that let not our good Beef and Mutton be thought ill of, or the Air impregnated with our Ignorance and Dulneſs: Unleſs in favour of Muſick an <hi>Italian</hi> ſhould put in a <hi>Cavent</hi> againſt all <hi>Tramon<g ref="char:EOLhyphen"/>tanes,</hi> and with a keener Judgment ſplit our groſs Sounds, and ſeem to want the delicate touch upon the Drum which beats in his Cli<g ref="char:EOLhyphen"/>mate.</p>
+                     <p n="2">2. Others therefore aſcribe it to the differing Method in teaching, (as is ſaid in the <hi>Apparatus de Grant<g ref="char:EOLhyphen"/>maticâ, pag.</hi> 28.) which if true, (us there ſeems more ſenſe in it) then it were to be wiſh'd, that whoſoe<g ref="char:EOLhyphen"/>ver is hereafter ſo Piouſly and Pub<g ref="char:EOLhyphen"/>lickly enclin'd, as to Build and En<g ref="char:EOLhyphen"/>dow a School, before he tye up
+<pb n="77" facs="tcp:63741:48"/>the School and Schoolmaſter by ſtrict and unalterable Statutes of Method, he would ſcan the courſes that are taken beyond Sea, and faſhion his own Inſtitution to the Advantage and Honour of our Nation: For the common Rules of Teaching here, either by Cuſtom or particu<g ref="char:EOLhyphen"/>lar Injunction of Benefactors, are ſo eſtabliſhed, that an attempt of change is extravagant.</p>
+                     <p>There is a great out-cry againſt the cuſtomary uſage of the common Accidence and Grammar; and tho' I could wiſh that every one who rails at them underſtood them, yet I muſt own that the Objections which the Learned in the Art of Gram<g ref="char:EOLhyphen"/>mar have made, are very conſide<g ref="char:EOLhyphen"/>rable, but will hardly be able to prevail with publick Authori<g ref="char:EOLhyphen"/>ty to eſtabliſh a new Method up<g ref="char:EOLhyphen"/>on the Ruin of <hi>Lilly,</hi> 'till manifeſt Experience of much greater and ſpeedier Effects ſhall prepare the whole Nation to embrace it. But it muſt be confeſs'd that they de<g ref="char:EOLhyphen"/>ſerve
+<pb n="78" facs="tcp:63741:49"/>a great many thanks who by their Objections endeavour to pro<g ref="char:EOLhyphen"/>mote a more beneficial uſe of the common Grammar. For tho' the Laws permit not private Perſons to ſhorten Journeys by making a new High-way, yet it is ſomething like an equivalent to pick out the Stones, and remove the Rubbs which lengthen the old one. And every man is a Benefactor to the Publick who ſets up a Mercurial Statue, which tho' it be fixt, and cannot turn and point to every By-Path, yet it ſaves many a Travel<g ref="char:EOLhyphen"/>lor from being loſt in the common Road.</p>
+                     <p>I come now to ſuch directions as Year after Year may forward the Underſtanding the <hi>Latin</hi> Tongue: They are not the largeſt or the moſt learned that I have read, but they are moſt eaſie, and moſt likely to be practiſed of any I have met with: And hereby will be avoided the great Inconveni<g ref="char:EOLhyphen"/>ence which both Maſter and Scho<g ref="char:EOLhyphen"/>lar
+<pb n="79" facs="tcp:63741:49"/>would find by changing the Accidence and Grammar: Extra<g ref="char:EOLhyphen"/>ordinary ſucceſs muſt not be ex<g ref="char:EOLhyphen"/>pected without extraordinary pains: But becauſe it will ſeem tedious to dwell long upon little things, there is great danger that the Maſter may make too much haſt with the Child, eſpecially ſince Parents are impati<g ref="char:EOLhyphen"/>ent for the taking out <hi>New Leſſons:</hi> This, I conceive, is one great rea<g ref="char:EOLhyphen"/>ſon why Children afterwards prove imperfect, becauſe they leave things behind them not well underſtood.</p>
+                     <p>Therefore in what follows, I will ſet down the eaſieſt Method I could extract out of the Rules which <hi>Lil<g ref="char:EOLhyphen"/>ly, Aſcham,</hi> and later Schoolmaſters give compared with foreign Advices of the ſame kind.</p>
+                  </div>
+                  <div type="section">
+                     <pb n="80" facs="tcp:63741:50"/>
+                     <head>Firſt Year.</head>
+                     <p>IET the Child be made per<g ref="char:EOLhyphen"/>fect in Declining Nouns thro' all Caſes, and forming Verbs thro' all Tenſes and Perſons when re<g ref="char:EOLhyphen"/>quired, and the flower it is in do<g ref="char:EOLhyphen"/>ing, the effect will be the more ſure, and Progreſs greater. Foreign Writers allot but few Months for this; but I ſhould be glad if the firſt whole Year could do it. When he comes to the Declenſion of Nouns, and Conjugation of Verbs, let him have many ſeveral Exam<g ref="char:EOLhyphen"/>ples of each; Firſt the eaſieſt Ex<g ref="char:EOLhyphen"/>amples, and by general Rules, (without the Exceptions, which will puzzle at the beginning) after<g ref="char:EOLhyphen"/>wards ſuch Examples as are har<g ref="char:EOLhyphen"/>der, and with the Exceptions alſo.</p>
+                     <p>Daily Declining a Noun, and Forming a Verb, and turning it in<g ref="char:EOLhyphen"/>to all Faſhions, will fit him for
+<pb n="81" facs="tcp:63741:50"/>Concords, and framing Sentences, by ſhowing him how ſingle Nouns and Verbs are joined. Take ſome eaſie Sentence wherein all the Eight Parts of Speech are contained, and let every ſingle Word be declined and formed and afterwards conſtru<g ref="char:EOLhyphen"/>ed, as they depend upon each other.</p>
+                     <p>When the Caſes of Nouns, and Perſons of Verbs and Concords are well known, then let not the Child drudge to learn the Rules order<g ref="char:EOLhyphen"/>ly by roat, as they lie in the <hi>Syntax,</hi> but rather learn ſome eaſie Book, containing good plain <hi>Latin;</hi> and as there falls out any neceſſary Rule of <hi>Syntax</hi> to be known, ſhew it, and let him learn it, as the Sen<g ref="char:EOLhyphen"/>tence giveth occaſion; thus th Grammar will be taught by the by.</p>
+                     <p>And I could wiſh that the Form<g ref="char:EOLhyphen"/>ing Verbs were made more eaſie by lengthening all the Abbrevia<g ref="char:EOLhyphen"/>tions which baffle a tender Under<g ref="char:EOLhyphen"/>ſtanding: For Inſtance, <hi>Amabam, as, at;</hi> it were better to write it at length, <hi>Amabam, Amabas, Amabat:</hi>
+                        <pb n="82" facs="tcp:63741:51"/>And let the Perſons be alſo ſet down; <hi>Ego Amabam, Tu Amabas, Ille Amabat;</hi> for it diſturbs the Child's Memory to be made add them of himſelf.</p>
+                  </div>
+                  <div type="section">
+                     <head>Second Year.</head>
+                     <p>WHen he comes to make <hi>La<g ref="char:EOLhyphen"/>tin,</hi> the eaſieſt Method, I think, is what Mr. <hi>Lewis</hi> ſets down in his <hi>Veſtibulum Technicum,</hi> where<g ref="char:EOLhyphen"/>by the Child is eaſed of the dif<g ref="char:EOLhyphen"/>ficulty of finding out proper <hi>La<g ref="char:EOLhyphen"/>rin</hi> Words, and hath nothing to do but to alter Tenſe and Caſe, as the Senſe requires, and be careful that he never go upon a new Sen<g ref="char:EOLhyphen"/>tence 'till he be perfectly Maſter of what he did laſt. Turning <hi>Engliſh</hi> into <hi>Latin</hi> will fix the Rules in his Head, and help him ſooner to ſpeak <hi>Latin,</hi> than turning <hi>Latin</hi> in<g ref="char:EOLhyphen"/>to <hi>Engliſh:</hi> For many Perſons can more eaſily Conſtrue <hi>Latin</hi> than
+<pb n="83" facs="tcp:63741:51"/>Speak it. If between while you ſhow him the uſe of <hi>Brinly's Poſing the Accidence,</hi> and <hi>Hooll's Accidence examined,</hi> it will add to his know<g ref="char:EOLhyphen"/>ledge of the Rules; with Mr. <hi>Wal<g ref="char:EOLhyphen"/>ker</hi>'s Works of <hi>Grantham.</hi>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <head>Third Year.</head>
+                     <p>NOW he muſt be very frequent in Conſtruing and Tranſla<g ref="char:EOLhyphen"/>ting ſome eaſie Author, wherein he may learn both Morals and <hi>La<g ref="char:EOLhyphen"/>tin</hi> together; <hi>Caſtalio</hi>'s Dialogues, and ſome of the moſt eaſie of <hi>Ci<g ref="char:EOLhyphen"/>cero</hi>'s Epiſtles, eſpecially I except thoſe which touch upon State Af<g ref="char:EOLhyphen"/>fairs, becauſe the Matter makes the <hi>Latin</hi> difficult. Let him for varie<g ref="char:EOLhyphen"/>ty be taught to Conſtrue ſome ea<g ref="char:EOLhyphen"/>ſie Poet, according to the Method for the <hi>Dauphin,</hi> reſolving the Ver<g ref="char:EOLhyphen"/>ſes into natural Order, becauſe Poetical <hi>Latin</hi> at firſt will be more difficult, as being more Conciſe.
+<pb n="84" facs="tcp:63741:52"/>Some Speeches in <hi>Ovid's Matamor<g ref="char:EOLhyphen"/>phoſis</hi> being Conſtrued, and per<g ref="char:EOLhyphen"/>fectly well underſtood, will be worth his learning without-Book, and repeated to exerciſe his Memo<g ref="char:EOLhyphen"/>ry, which muſt be exerciſed in ſomething or other once every day. The Nature and differing kinds of Verſes are too difficult yet to be explained: And Compoſition or I<g ref="char:EOLhyphen"/>mitation, I think, may yet be let alone. How much I preferr Tran<g ref="char:EOLhyphen"/>ſlation before Compoſition in order to Inſtitution I have ſhewn in the <hi>Apparatus ad Theologiam de Gram<g ref="char:EOLhyphen"/>matica,</hi> with a Method to learn the <hi>Latin</hi> Tongue.</p>
+                  </div>
+                  <div type="section">
+                     <head>Fourth Year.</head>
+                     <p>IF the former Courſe be duly ta<g ref="char:EOLhyphen"/>ken, the Child's Judgment will begin to appear fit for ſome ſolid Inſtructions; ſo that together with progreſs in the <hi>Latin</hi> Tongue, a
+<pb n="85" facs="tcp:63741:52"/>Foundation may be laid for more uſeful Knowledge than of bare Words and Sentences: <hi>Juſtin</hi> I think the fitteſt Author to begin this Year with; becauſe he is leſs crabbed than the Style of Hiſtori<g ref="char:EOLhyphen"/>ans commonly is, eſpecially wherein much Matter is crowded into lit<g ref="char:EOLhyphen"/>tle compaſs; but in reading of him regard muſt be had to the Chrono<g ref="char:EOLhyphen"/>logy as well as Hiſtory, and the Youth directed to meaſure the time and diſtances of Men and Actions recorded in him, by ſome ſuch aſ<g ref="char:EOLhyphen"/>ſiſtance as you have in the <hi>Appa<g ref="char:EOLhyphen"/>ratus ad Theologiam de Munere Hi<g ref="char:EOLhyphen"/>ſtorico;</hi> for otherwiſe the Hiſtori<g ref="char:EOLhyphen"/>cal Narrations will be found looſe, uncertain and falſe.</p>
+                     <p>Between whiles ſome Speech in <hi>Cicero,</hi> famous for the Art and Re<g ref="char:EOLhyphen"/>thorick; ſometimes a Speech in <hi>Li<g ref="char:EOLhyphen"/>vy</hi> to be ſo perfectly conſtrued and underſtood, that the Child may comprehend the Strength and Nerves of the Orator.</p>
+                     <p>
+                        <pb n="86" facs="tcp:63741:53"/>And becauſe by this time Wit and Sharpneſs may deſerve to be encouraged, ſome of the moſt no<g ref="char:EOLhyphen"/>torious, chaſt Epigrams in <hi>Martial</hi> will very uſefully exerciſe his Tranſlating Faculty. The Nature alſo, Scanning and Pronouncing Verſes may now begin to be taught, and ſome Rules in order to Com<g ref="char:EOLhyphen"/>poſing, that he may not be alto<g ref="char:EOLhyphen"/>gether ignorant of the Mechanical part of Poetry, and may perceive the different make of <hi>Latin</hi> in Verſe from <hi>Latin</hi> in Proſe. He alſo may be aſſiſted how to invent Senſe upon ſome plain and obvi<g ref="char:EOLhyphen"/>ous Subject, which will be the way to ſtir up Fancy. But becauſe in<g ref="char:EOLhyphen"/>venting Senſe for Verſe is much more difficult than in Proſe, exer<g ref="char:EOLhyphen"/>ciſe him for a while to learn the Rules concerning the Feet in long and ſhort Verſes in making Non<g ref="char:EOLhyphen"/>ſence Verſes without any regard to Concordance, and only for Metre's ſake.</p>
+                  </div>
+                  <div type="section">
+                     <pb n="87" facs="tcp:63741:53"/>
+                     <head>Fifth Year.</head>
+                     <p>I Preſume at this time Know<g ref="char:EOLhyphen"/>ledge will begin to thicken, and Compoſition will ripen apace, by ſhowing the Parts and Method of Speeches, and alſo of common Themes. He will now be able to read Authors himſelf, and there<g ref="char:EOLhyphen"/>fore muſt be guided what to Re<g ref="char:EOLhyphen"/>mark as obſervable in Authors, ac<g ref="char:EOLhyphen"/>cording to the Method preſcribed in the <hi>Apparatus de Grammaticâ.</hi>
+                     </p>
+                     <p>A Play in <hi>Terence</hi> now and then will divert by the Matter, and give a new kind of Reliſh by the finery of the Phraſe. In <hi>Florus</hi> the Wit, and <hi>Juvenile</hi> Elegancy will af<g ref="char:EOLhyphen"/>fect a Youthful Fancy, which <hi>Mar<g ref="char:EOLhyphen"/>tial</hi> and <hi>Ovid</hi>'s Works will heigh<g ref="char:EOLhyphen"/>ten: The variety of Subjects in <hi>Va<g ref="char:EOLhyphen"/>lerius Maximus</hi> will pleaſe.</p>
+                  </div>
+                  <div type="section">
+                     <pb n="88" facs="tcp:63741:54"/>
+                     <head>Sixth Year.</head>
+                     <p>IT is odds but ſome Perſons will wonder why not a Word of <hi>Greek</hi> all this while; and becauſe Wonderers muſt ſometimes be an<g ref="char:EOLhyphen"/>ſwered in their folly, I will tell the reaſon: I am afraid it is one great hinderance to progreſs in thoſe Schools, wherein before a Boy can turn his <hi>Pater Noſter</hi> into true <hi>La<g ref="char:EOLhyphen"/>tin,</hi> he muſt play at Blind-Man's-Buff with <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, and make his Mother quite ſtun the next Com<g ref="char:EOLhyphen"/>pany ſhe meets, with the Goſſiping News what an horrible <hi>Grecian</hi> her Son is: When all this while the Boy is but going to unlearn his little <hi>Latin,</hi> and acts like a crippled Turn-Spit in a Wheel, he takes great pains to get up for<g ref="char:EOLhyphen"/>wards, and all he gets is to come down back again the faſter.</p>
+                     <p>
+                        <pb n="89" facs="tcp:63741:54"/>But now at ſuch an Age as this, it is to be preſum'd that he may be ſo far gone in <hi>Latin,</hi> as that ſome leiſure Hours may be ſpared for the Rudiments of <hi>Greek:</hi> For the more Pains is taken, and the more Skill he gets in the <hi>Latin</hi> Tongue, will enlarge his Capacity, and make the <hi>Greek</hi> Language more eaſie to be learned than <hi>La<g ref="char:EOLhyphen"/>tin</hi> was, when Memory, and Fan<g ref="char:EOLhyphen"/>cy were weak.</p>
+                     <p>Let him ſpend this Year to be made fully underſtand the <hi>Greek-Grammer;</hi> getting without Book Declinations of Nouns, and Conju<g ref="char:EOLhyphen"/>gations of Verbs, and the uſe of Pronouns, Conjunctions, Prepoſiti<g ref="char:EOLhyphen"/>ons, and Adverbs.</p>
+                     <p>But Care muſt be taken, that Pretenſion to <hi>Greek,</hi> may not make the young Man think that <hi>Latin</hi> is not the more uſeful Language: Now <hi>Quintus Curtius,</hi> and <hi>Lucan</hi> will be worth his Study; and com<g ref="char:EOLhyphen"/>poſing Verſes, and Speeches may be taught him; though Verſifying
+<pb n="90" facs="tcp:63741:55"/>(beyond the bare forme) how un<g ref="char:EOLhyphen"/>ſit it is for a Gentleman: See the <hi>Apparatus de Grammaticâ.</hi>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <head>Seventh Year.</head>
+                     <p>WHen he is well inſtructed in the <hi>Greek Grammar,</hi> for Nouns, Verbs, and the <hi>Syntax</hi> of both; the next thing is to furniſh him with the Knowledge of the <hi>Greek</hi> Themes. I have ſeen a Book (the Name I cannot remember) wherein all the Original <hi>Greek</hi> Words were comprized in ſo ma<g ref="char:EOLhyphen"/>ny Sentences (with <hi>Latin</hi> annexed) ſo that they might be learned in little Time, and by being often read over, fixed in the Memory; for want of ſuch an help, let him take <hi>Leuſden's Compendium Novi Teſtamenti,</hi> and practiſe upon that Book, firſt, for ſingle Words; and <hi>Stobaeus</hi> his <hi>Fragmenta, Epictetus,</hi> with ſome of the minor Poets:
+<pb n="91" facs="tcp:63741:55"/>For <hi>Latin, Cicero, Virgil,</hi> and <hi>Livy.</hi> This Year and the next, muſt be mightily employed with all manner of Exerciſes, not one Hour to be loſt, unleſs for Health's ſake.</p>
+                     <p>And leſt that Health ſhould be made uſe of, to make the Child Idle to no purpoſe, in ſeaſonable Weather, and at leiſure Times, let him learn to Dance; becauſe theſe Exerciſes will divert from worſe, or more tedious loſs of Time: They will alſo prevent antick and misbecoming Geſtures, which Chil<g ref="char:EOLhyphen"/>dren are apt to get, and which prove afterwards difficult to be Cured; for at this tender Age, thſee Maſcular Motions, are eaſily ſhaped to decency of Addreſs, and Carriages, which looks Delicately in Children, and which by degrees will grow up into ſo eaſie an Habit, as that the Art, and Stiffneſs of it, being with his Age quite loſt, his Gentility ſhall ſeem Natural, and ſo Infinitely more Delighting: This is an odd Digreſſion, hut per<g ref="char:EOLhyphen"/>haps
+<pb n="92" facs="tcp:63741:56"/>uſeful. Now ſome skill in the Globes.</p>
+                     <p>Now the <hi>Epochas</hi> in the <hi>Appara<g ref="char:EOLhyphen"/>tus de Munere Hiſtorico,</hi> are to be fill'd up, and diſtances determin<g ref="char:EOLhyphen"/>ed; and a Method of Cronologi<g ref="char:EOLhyphen"/>cal Hiſtory after Chriſt by Centu<g ref="char:EOLhyphen"/>ries contrived</p>
+                  </div>
+                  <div type="section">
+                     <head>Eighth Year.</head>
+                     <p>THis Year being the laſt at School, is to be very Labo<g ref="char:EOLhyphen"/>rious, eſpecially for <hi>Greek;</hi> it is like the diſtance Poſt at a Race, here they are to whip and ſpur; <hi>Homer</hi> and <hi>Xenophon's Cyrus,</hi> for <hi>Greek; Horace, Caeſhr's Commentaries,</hi> and <hi>Tacitus</hi> for <hi>Latin.</hi>
+                     </p>
+                     <p>Here I muſt make all the haſt I can to tell the Tutor, that when I name reſpective Books, for each ſingle Year, I do not mean that the Child ſhould read them all over in that Year, but go ſo far in each
+<pb n="93" facs="tcp:63741:56"/>Book, as to taſt the reliſh of the ſingular <hi>Latin</hi> in one and the other, and hereafter to ſtudy the Maſte<g ref="char:EOLhyphen"/>ry of each.</p>
+                     <p>Neither do I take my ſelf to be ſo wife, as to make what I have ſaid a Standard unalterable; but, ſincerely, my only Deſign is to preſcribe a Scheam for a young Tu<g ref="char:EOLhyphen"/>tour, or School-Maſter to build up<g ref="char:EOLhyphen"/>on; exchanging Method or Books at his own Diſcretion.</p>
+                  </div>
+                  <div type="section">
+                     <head>The Third Stage.</head>
+                     <head>From Fourteen to Twenty One.</head>
+                     <p>AFter a juſt Practice of the fore<g ref="char:EOLhyphen"/>going Methods, it may be rea<g ref="char:EOLhyphen"/>ſonably preſum'd that the young Gentleman is very well furniſhed with skill in the <hi>Latin</hi> Tongue, and no Stranger to <hi>Grock;</hi> and then I conceive him fit for the Us niverllty, becauſe publique Aſſairs,
+<pb n="94" facs="tcp:63741:57"/>and his own Family Concerns will haſtily require him into the World.</p>
+                     <p>And here I will lay down the Reſolutions which (after ſome Ex<g ref="char:EOLhyphen"/>perience) I would take; were I now choſen Tutor to a Perſon of great Quality and good Capa<g ref="char:EOLhyphen"/>city.</p>
+                     <p n="1">(1.) Conſcientious Care muſt be taken of his Moral Behaviour in the Univerſity.</p>
+                     <p n="2">(2.) Care muſt be taken the Child underſtand, that though he be come to <hi>Oxford,</hi> and expects the Taylor ſhould put on him Philoſo<g ref="char:EOLhyphen"/>phy with his Gown, yet that Phi<g ref="char:EOLhyphen"/>lology is ſtill improveable, and that Speeches and Theams will ſtill deſerve a good ſhare of his Thoughts, though Logick, and Philoſophy muſt make the greateſt Noiſe in his Head.</p>
+                     <p n="3">(3.) That Seriouſneſs may not be thought a foreign Qualification to an <hi>Oxford Scholar,</hi> the Tutor will do well to explain (and adviſe the fre<g ref="char:EOLhyphen"/>quent
+<pb n="95" facs="tcp:63741:57"/>reading over) the Directi<g ref="char:EOLhyphen"/>ons for a more eaſie, quiet and leſs diſturbed Life; <hi>Guardian's Inſtruct.</hi> p. 7. which if he be made fully and warmly to comprehend, he will know the value of his own Thoughts and Soul, and reckon the Proſpect of Two Thouſand a Year, but as Paper and Pack-thread to the Fruit.</p>
+                     <p n="4">(4.) At his firſt coming to <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> it is fit he ſhould be made ac<g ref="char:EOLhyphen"/>quainted with ſome general know<g ref="char:EOLhyphen"/>ledge of Philoſophy, of the Origi<g ref="char:EOLhyphen"/>nal Deſign, and ſeveral parts of it; becauſe this will abate that confu<g ref="char:EOLhyphen"/>ſion and ſurprize of Thoughts, which cannot but attend the firſt entrance on this new fort of Learn<g ref="char:EOLhyphen"/>ing.</p>
+                     <p n="5">(5.) Great Induſtry muſt be em<g ref="char:EOLhyphen"/>ployed to explain the Terms in all the Parts of Philoſophy: Becauſe though this may be thought dry Diet for a Gentleman, yet here<g ref="char:EOLhyphen"/>after it will have this uſe, that if the Perſon prove bookiſh, and thinks
+<pb n="96" facs="tcp:63741:58"/>it worth his while to read a con<g ref="char:EOLhyphen"/>troverſial piece of Divinity or Phi<g ref="char:EOLhyphen"/>loſophy, it will trouble a Man of good Comprehenſion, not to un<g ref="char:EOLhyphen"/>derſtand an Argument, for want of knowling ſome od <hi>Term</hi> on which perhaps the Streſs lies.</p>
+                     <p n="6">(6.) Next to the Terms, the Rules of Reaſoning, and foundati<g ref="char:EOLhyphen"/>ons of Moods and Figures, and Con<g ref="char:EOLhyphen"/>ſequences, being frequently inſiſted on and throughly known, would be more beneficial (to ſuch a Per<g ref="char:EOLhyphen"/>ſon) (not being of a Foundation, or intending to ſtay long) than to diſpute Logical Queſtions, for ei<g ref="char:EOLhyphen"/>ther he will be vexed to find an Argument, or will have nothing elſe to do but to read one of his Tutors making, which is all loſt Time.</p>
+                     <p n="7">(7.) After a ſhort Syſtem of Phi<g ref="char:EOLhyphen"/>ſick, in the old way, a taſte of the new Philoſophy would reliſh well, to underſtand the differing Princi<g ref="char:EOLhyphen"/>ples upon which it proceeds.</p>
+                     <p n="8">
+                        <pb n="97" facs="tcp:63741:58"/>(8.) It will be very accompliſh<g ref="char:EOLhyphen"/>ing, to have ſome time ſet apart for the Mathematicks, but for this there ought to be a Tutor particu<g ref="char:EOLhyphen"/>lar, whoſe ſingular converſation in that Study, ſhall teach him much in little time.</p>
+                     <p n="9">(9.) Ethicks, Politicks, Hiſtory, and the Practice of Rhetorick, will be of everlaſting uſe to a compleat Gentleman, and therefore will beſt become the moſt deſigning part of the Inſtitution,</p>
+                     <p>Here it may be expected that I ſhould be more particular in the Concerns of an Academical Inſti<g ref="char:EOLhyphen"/>tution, both as to the Morals and Knowledge of the young Gentle<g ref="char:EOLhyphen"/>man; But that being already per<g ref="char:EOLhyphen"/>formed, partly in the Guardian's Inſtructions, and partly in the Ap<g ref="char:EOLhyphen"/>paratus, I ſhall referr the Tutor without ſwelling theſe Papers with a Tranſcript.</p>
+                     <p n="1">1. As for that Behaviour, which good Manners, the Statutes of the
+<pb n="98" facs="tcp:63741:59"/>Univerſity, and a deſign of ſucceſs and Proficiency oblige him to; it is at large ſet down in the <hi>Guardian</hi>'s <hi>Inſtruction,</hi> beginning <hi>page</hi> 50. and occaſionally in many other Places, with Advices to Parents, Tutor, and Scholar.</p>
+                     <p n="2">2. As for a general Scheme of Philoſophy, both Speculative and Practical, from the Original, De<g ref="char:EOLhyphen"/>ſign and Diviſion of it: See <hi>Appa<g ref="char:EOLhyphen"/>tus</hi> Chap. 9.</p>
+                     <p n="3">3. For a ſhort and plain view of the Nature, Uſe, and Method of Logick: See <hi>Apparatus</hi> Chap. 12.</p>
+                     <p>The ſpecial Parts of Philoſophy follow only I think Inſtitution in Ethicks, and Civil-Law, may uſefully be mixed</p>
+                     <p n="4">4. A Method for the Study of Hiſtory is at large ſet down in the ſpecial Part of the <hi>Apparatus de Mu<g ref="char:EOLhyphen"/>nere Hiſtorico.</hi>
+                     </p>
+                     <p>What Preparatory Directions are to be given for undertaking any one of the eminent Profeſſions, either of Phyſick, Civil-Law, Com<g ref="char:EOLhyphen"/>mon-Law,
+<pb n="99" facs="tcp:63741:59"/>or Divinity, (each of which are capable to reward as much Induſtry, as any Gentleman ſhall think ſit to beſtow) are here to follow, and compleat the deſign of an Academical Education, which I take to be abſolutely neceſſary, to ſit any Perſon of Quality, to ſerve God and his Country in any pub<g ref="char:EOLhyphen"/>lick and uſeful Employment, or Calling: And therefore I wiſh I were able to remove thoſe Preju<g ref="char:EOLhyphen"/>dices againſt the Univerſities, which hinder many Perſons from ſending their Sons thither; whence thoſe Prejudices ariſe, and (in order to remove them) what conceros the Governours, Tutors, and Diſcipline of the Univerſity, as alſo what con<g ref="char:EOLhyphen"/>cerns the Parents, and young Gen<g ref="char:EOLhyphen"/>tlemen to be bred up there, hath been ſuggeſted in the Guardian In<g ref="char:EOLhyphen"/>ſtruction, to which I referr ſuch Gentlemen as are ſollicitous for the diſpoſal of their Children into the World: what ſome put in Practice at this time I cannot approve of.</p>
+                     <p n="1">
+                        <pb n="100" facs="tcp:63741:60"/>1. To ſend a young Gentleman to the Academy at Ten or Eleven Years of Age, to be accompliſhed in thoſe Exerciſes firſt, and after<g ref="char:EOLhyphen"/>wards to be made a Scholar, at the very firſt ſight looks prepoſterous: For after he hath been Mounted, made look big, and his Head runs round with the Prancings of the <hi>Great Horſe,</hi> he will think himſelf ſitter to lead an Army, than to ſit down with the lazy. Arts of Wiſ<g ref="char:EOLhyphen"/>dom and Learning.</p>
+                     <p n="2">2. To take him from School and place him with a prudent exempla<g ref="char:EOLhyphen"/>ry Miniſter, is a way probable e<g ref="char:EOLhyphen"/>nough to keep him Virtuous, and improve his Knowledge (provided he will endure Confinement.) But that Converſation is ſomewhat of the narroweſt for a Gentleman born to <hi>ſpread</hi> when he comes of Age, and mix with Perſons of his own Quality, who have had a more <hi>Liberal</hi> knowledge of the World.</p>
+                     <p n="3">3. If he be ſent from School to ſome Proteſtant Univerſity beyond
+<pb n="101" facs="tcp:63741:60"/>Sea, the ſtrangeneſs of New Faces, Language, Manners and Studies may prove perhaps uneaſie: And then their great want of Diſcipline to confine him to Prayers, Exerciſes, and Meals, is dangerous; all he will have to do is to keep touch with a Lecturer, and what is learn<g ref="char:EOLhyphen"/>ed from him, moſt young Gentle<g ref="char:EOLhyphen"/>men are ſo civil as to leave behind them when they return.</p>
+                     <p>If for cheapneſs or curioſity, in<g ref="char:EOLhyphen"/>ſtead of an <hi>Engliſh</hi> Governour he be committed to a Foreigner, there are ſome in the World who with<g ref="char:EOLhyphen"/>out a Fee will tell you what that is like to come to.</p>
+                     <p>This Caution I thought neceſſa<g ref="char:EOLhyphen"/>ry, and now ſhall proceed.</p>
+                     <p>I cannot better compare a Per<g ref="char:EOLhyphen"/>ſon who by his honeſt Induſtry hath qualified himſelf to ſerve his Generation in ſome ſpecial Courſe of Life, than to a Man who hath laboured a great while with many a Sigh and weary Step to climb up an high Hill, and at length reach<g ref="char:EOLhyphen"/>ing
+<pb n="102" facs="tcp:63741:61"/>the Top, reſts and pants, and with delight looks back down on the tedious exerciſe of his Limbs and Patience; then turns about and views a mighty Plain, which of<g ref="char:EOLhyphen"/>fers to the curioſity of his Choice variety of Paths to walk in, ac<g ref="char:EOLhyphen"/>cording as his Ability and Condi<g ref="char:EOLhyphen"/>tion ſhall direct him to take.</p>
+                     <p n="1">1. Some are for following their greedy Eyes, and taking the long<g ref="char:EOLhyphen"/>eſt Path, to borrow the Wiſdom of foreign Countries for the uſe of their own: And no doubt it would be a great Advantage to the Na<g ref="char:EOLhyphen"/>tion, did every Perſon ſtudy to make the uſefulneſs of his Travels equal the pleaſure he takes in ſee<g ref="char:EOLhyphen"/>ing things abroad, and reporting them at home.</p>
+                     <p>To this purpoſe 'tis convenient to enquire after thoſe Authors who have beſtowed their Experience on the World very particularly on this Subject.</p>
+                     <p>
+                        <pb n="103" facs="tcp:63741:61"/>And becauſe my Hand is in, and <hi>Inſtruction</hi> is the Word in all this Book, I am bound to ſet down ſuch general Adviſes for Travail<g ref="char:EOLhyphen"/>ing as at this time come into my Thoughts.</p>
+                     <p n="1">I. The knowledge of your own Country is neceſſary, not only for your own Pleaſure and Satisfaction, but alſo to beget a curioſity of look<g ref="char:EOLhyphen"/>ing and enquiring.</p>
+                     <p n="2">II. I would take the young Gen<g ref="char:EOLhyphen"/>tleman along with me round all the Circuits with the Judges: The diverſion of the Company, and the ſecurity on the Road will ballance any Inconvenience I can foreſee: And by this means in few Weeks time you will view all Counties and Cities moſt eminent in the Nation.</p>
+                     <p n="3">III. The Hiſtory and Geographi<g ref="char:EOLhyphen"/>cal Deſcription of the Country you travail to ſhould be firſt ſtu<g ref="char:EOLhyphen"/>died; How it Borders, and how it is Divided, by tracing the famous Rivers and Branches of them.</p>
+                     <p n="4">
+                        <pb n="104" facs="tcp:63741:62"/>IV. Some Grammatical Inſtructi<g ref="char:EOLhyphen"/>on in the Language would prepare you more eaſily to learn to Speak it.</p>
+                     <p n="5">V. A Catalogue ought to be col<g ref="char:EOLhyphen"/>lected and always with you of ſuch Curioſities Ancient and Modern in Provinces and Cities as are moſt obſervable, and the old and new Names of Places compared; by this you will readily know what to enquire for.</p>
+                     <p n="6">VI. As for Cloaths, take only a Travailing Suit, and dreſs your ſelf <hi>a-la-mode</hi> when you arrive there. Good Skill in the Prices of things is abſolutely neceſſary for his Tutor.</p>
+                     <p n="7">VII. Beſides Bills of Return, it will be convenient to have ſome Letters of Credit to Merchants in caſe your Bill ſhould fail; and ſome adviſe, to take with you a Jewel, or any precious thing which may eaſily be carried and concealed a<g ref="char:EOLhyphen"/>bout your Cloathes.</p>
+                     <p n="8">
+                        <pb n="105" facs="tcp:63741:62"/>VIII. You muſt reſolve upon a great inoffenſiveneſs of Converſa<g ref="char:EOLhyphen"/>tion, Patience of diſagreeable oc<g ref="char:EOLhyphen"/>currences, and avoidance of Ear<g ref="char:EOLhyphen"/>neſtneſs in <hi>Diſpute,</hi> eſpecially about Matters of Religions, or Honour of Kingdoms.</p>
+                     <p n="9">IX. You muſt not be too <hi>open,</hi> as if every one you met were an <hi>Engliſh-man;</hi> neither yet ſo <hi>reſerv'd</hi> as to beget a ſuſpicion of your Jealouſie.</p>
+                     <p n="10">X. When you receive Money keep it private, leaſt it be borrow<g ref="char:EOLhyphen"/>ed one of the two ways.</p>
+                     <p n="11">XI. When you remove from one Province to another, keep the time of your departure ſecret, laeſt other Foreigners, or your own Country-men (who ſometimes prove the moſt impertinent of Acquain<g ref="char:EOLhyphen"/>tance) pin themſelves upon you.</p>
+                     <p n="12">XII. You muſt ſtudy your own Conſtitution, and carefully obſerve how it reliſhes the great change of Air and Diet; and remember to eat Fruit wiſely.</p>
+                     <p n="13">
+                        <pb n="106" facs="tcp:63741:63"/>XIII. You muſt not expect that all you ſee others practiſe, and do your ſelf abroad, muſt be equally practiſed here when you return. <hi>For Example.</hi>
+                     </p>
+                     <p>If you ſee a <hi>French</hi> Nobleman run a poor Peaſant through, for not taking notice of him a Mile off, you muſt not do that here, for fear of a Knock in the Poll, with a Club or an Ax.</p>
+                     <p>If you ſee a <hi>Venetian</hi> Lady ſtand<g ref="char:EOLhyphen"/>ing at a Window and looking, <hi>as who ſhould ſay,</hi> you muſt not Comple<g ref="char:EOLhyphen"/>ment her with a Billet Douce, leſt you receive a <hi>dry'd Peare</hi> for your Kindneſs.</p>
+                     <p>If you ſee a Fopp ambling in the Street, his Toes awayward, as if the had fallen-out, ſimpering as Formally, and cringing as ſtiffly as the two Beaux do on the Sign of the <hi>Salutation,</hi> and you practiſe that here, you will be as much Laugh'd at in <hi>England,</hi> when you come back, as you were in <hi>France</hi> when firſt you went over to learn it.</p>
+                     <p>
+                        <pb n="107" facs="tcp:63741:63"/>If you ſee a poor Animal run a Mile for one Farthing to open a Gate for a Paſſenger, and wear out his Wooden Shoes to the Bar<g ref="char:EOLhyphen"/>gain by ſcraping Thanks, you muſt beware of expecting that here, leſt the ſame Fellow ſhut the Gate a<g ref="char:EOLhyphen"/>gainſt you when you come that way again.</p>
+                     <p>Becauſe you care not <hi>Three-pence</hi> for any Man you meet in the Streets of <hi>Paris, Rome, Venice,</hi> or <hi>Amſter<g ref="char:EOLhyphen"/>dam,</hi> you muſt not bring hither ſuch a Selfiſhneſs, as to deſpiſe Re<g ref="char:EOLhyphen"/>lations, old Acquaintance, Friends and Neighbours; for if you do ſo, they will all wiſh you gone again.</p>
+                     <p>Above all things, if you ſee o<g ref="char:EOLhyphen"/>thers Atheiſtical and careleſs, do you double your own private De<g ref="char:EOLhyphen"/>votions; for Fear, keep your Soul diligently, and ſecure the Bleſſing of Him whom Wind and Sea obey.</p>
+                     <p n="14">XIV. Now, laſtly, you muſt make me one Promiſe, That you will tell no more when you return than you ſaw: And ſo I wiſh
+<pb n="108" facs="tcp:63741:64"/>you a good Journey; and if you can ſend me News of any Nation the King of <hi>France</hi> hath not made Fools of, 'tis odds but I and my Friend may follow.</p>
+                     <p n="2">2. If his Temper rather inclines him to ſettle and ſpend his Talents in the Country, how he may pay his Duty to God in being uſeful there, I referr him to the Directi<g ref="char:EOLhyphen"/>ons given in the <hi>Guardian's Inſtru<g ref="char:EOLhyphen"/>ction, pag.</hi> 13. in the Honourable Offices he may be called to; and if he merit a Promotion into the Parliament-Houſe, he may ſind ſome thoughts ſpent upon a young Gentleman's Carriage there, <hi>Guar<g ref="char:EOLhyphen"/>dian's Inſtruction, pag.</hi> 85. See more on this Head in the <hi>Gentle<g ref="char:EOLhyphen"/>man's Calling.</hi>
+                     </p>
+                     <p n="3">3. If the delight of the Study, or gainfulneſs of the Practice make him fancy the Profeſſion of Phy<g ref="char:EOLhyphen"/>ſick, then good and more than or<g ref="char:EOLhyphen"/>dinary skill in the <hi>Greek</hi> Tongue is neceſſary for underſtanding Terms
+<pb n="109" facs="tcp:63741:64"/>of Art and Authors to be met withal: As alſo conſiderable under<g ref="char:EOLhyphen"/>ſtanding both in old and new Na<g ref="char:EOLhyphen"/>tural Philoſophy. As for a Method of entring on the Study, Advices being various, he muſt conſult with his Friends knowing in it.</p>
+                     <p>I have heard a Perſon learned in the Science, and skilful in the Pra<g ref="char:EOLhyphen"/>ctice, recommend Chymiſtry firſt, as moſt agreeable to the order of Knowledge: For ſince we can have but little or no Notion of the <hi>Sa<g ref="char:EOLhyphen"/>liva,</hi> ferment of the Stomach, Chy<g ref="char:EOLhyphen"/>liſication, and all other Ferments and Juices upon which the Oeco<g ref="char:EOLhyphen"/>nomy of all Human and Animal Bodies depends; as likewiſe but an imperfect Knowledge of the Medi<g ref="char:EOLhyphen"/>cinal qualities of Simples, without a previous and general inſight in<g ref="char:EOLhyphen"/>to the nature of Salts, and the va<g ref="char:EOLhyphen"/>rious Effects their mixture with Li<g ref="char:EOLhyphen"/>quors may produce: It ſeems but reſonable to give Chymiſtry the firſt place in a Study of this Na<g ref="char:EOLhyphen"/>ture. Now though Anatomy hath
+<pb n="110" facs="tcp:63741:65"/>not that Relation to Botany as Chymiſtry hath to both, yet becauſe the uſe of the latter, as far as it makes a part of the <hi>Mate<g ref="char:EOLhyphen"/>ria Medica,</hi> depends wholly upon a nice acquaintance with the for<g ref="char:EOLhyphen"/>mer, it would look like a prepo<g ref="char:EOLhyphen"/>ſterous Method to conſider that firſt.</p>
+                     <p n="4">4. If the noble Study of the Civil-Law makes his Mouth water after good <hi>Latin,</hi> Reaſon, and Hi<g ref="char:EOLhyphen"/>ſtory, theſe following Books are thought adviſeable by the Learned.</p>
+                     <p n="1">I. <hi>Duc de Authoritate Juris Civi<g ref="char:EOLhyphen"/>lis.</hi> This ſhews of what Authori<g ref="char:EOLhyphen"/>ty it is now in the ſeveral Nations of the World.</p>
+                     <p n="2">II. <hi>Ridley's View of the Civil-Law.</hi>
+                     </p>
+                     <p n="3">III. <hi>Juſtinian's Inſtitutions,</hi> to be read with an eaſie Comment; the moſt eaſie is <hi>Mynſinger in Inſtitut.</hi>
+                     </p>
+                     <p n="4">IV. <hi>Bronchurſtius de Regulis Ju<g ref="char:EOLhyphen"/>ris.</hi>
+                     </p>
+                     <p n="5">V. The firſt and laſt Books of the <hi>Digeſts.</hi>
+                     </p>
+                     <p>
+                        <pb n="111" facs="tcp:63741:65"/>The firſt and Three laſt Books of the <hi>Codex.</hi>
+                     </p>
+                     <p>Theſe <hi>H. Grotius</hi> doth particu<g ref="char:EOLhyphen"/>larly recommend to a Perſon of Quality, and may beſt be read with the Aſſiſtance of <hi>Calvin</hi>'s <hi>Lexi<g ref="char:EOLhyphen"/>con,</hi> and <hi>Weſenbeehii Paratitla.</hi>
+                     </p>
+                     <p n="6">VI. <hi>Vulteii Juris prudentia Roma<g ref="char:EOLhyphen"/>mana;</hi> which gives a full view of the <hi>Roman</hi> Law, under moſt exact Diviſions.</p>
+                     <p>Laſtly ſhould be read ſeveral uſe<g ref="char:EOLhyphen"/>ful Queſtions exactly ſtated, <hi>(viz.)</hi> in</p>
+                     <p n="7">VII. <hi>Zouch Queſtiones Juris Civi<g ref="char:EOLhyphen"/>lis.</hi>
+                     </p>
+                     <p n="8">VIII. <hi>Hotomanni Queſtiones Illu<g ref="char:EOLhyphen"/>ſtres.</hi>
+                     </p>
+                     <p n="5">5. No Study can make a Gen<g ref="char:EOLhyphen"/>tleman more conſiderable and uſe<g ref="char:EOLhyphen"/>ful to his Country than good skill in the <hi>Common-Law</hi> of <hi>England,</hi> to which purpoſe ſome adviſe,</p>
+                     <p n="1">I. <hi>Forteſcue de Laudibus Legum Angliae.</hi>
+                     </p>
+                     <p n="2">II. <hi>Terms of the Law.</hi>
+                     </p>
+                     <p n="3">
+                        <pb n="112" facs="tcp:63741:66"/>III. <hi>Smith de Republicà Anglo<g ref="char:EOLhyphen"/>rum.</hi>
+                     </p>
+                     <p n="4">IV. <hi>Doctor and Student.</hi>
+                     </p>
+                     <p n="5">V. Sir <hi>Francis Bacon's Introducti<g ref="char:EOLhyphen"/>on</hi> to the Laws of <hi>England,</hi> at the end of his Maxims.</p>
+                     <p n="6">VI. <hi>Wingat's Abridgement.</hi>
+                     </p>
+                     <p n="7">VII. <hi>Coke upon Littleton:</hi> His <hi>In<g ref="char:EOLhyphen"/>ſtitutes,</hi> and ſome of his <hi>Reports,</hi> occaſionally read.</p>
+                     <p n="8">VIII. <hi>Bracton.</hi>
+                     </p>
+                     <p n="9">IX. <hi>Fleta</hi> with <hi>Selden</hi>'s Notes; conſult the Learned.</p>
+                  </div>
+                  <div type="section">
+                     <pb n="113" facs="tcp:63741:66"/>
+                     <head>
+                        <hi>Directions for the beginning a com<g ref="char:EOLhyphen"/>pleat Courſe in the Study of</hi> Divinity, <hi>by the help of the</hi> Apparatus ad Theologiam, <hi>Written for that purpoſe, and ſold by</hi> Walter Kettilby, <hi>and</hi> Sam. Smith <hi>in St.</hi> Paul<hi>'s-Church-yard; and the Bookſel<g ref="char:EOLhyphen"/>lers in</hi> Oxford.</head>
+                     <p n="1">1. SInce the different Perſwaſi<g ref="char:EOLhyphen"/>ons in Religion and Con<g ref="char:EOLhyphen"/>troverſies ſhelter themſelves main<g ref="char:EOLhyphen"/>ly under the Authority of Scrip<g ref="char:EOLhyphen"/>ture, the firſt Step, and I am cer<g ref="char:EOLhyphen"/>tain the ſureſt Footing, for a young Divine muſt be on a ſound Know<g ref="char:EOLhyphen"/>ledge of the Language and Text, Sence and Context of Scripture, and a ſincere ſearch after Truth muſt exclude all prejudice in the Application.</p>
+                     <p n="2">
+                        <pb n="114" facs="tcp:63741:67"/>2. The <hi>Hebrew</hi> Language being narrow, and therefore obſcure, I adviſe that the cloſe Study of that Tongue be deferred for the firſt Two or Three Years, becauſe it may diſcourage and ſtop the be<g ref="char:EOLhyphen"/>ginnings of the Study.</p>
+                     <p n="3">3. For perfecting his Knowledge in the <hi>Greek,</hi> it will be requiſite to buy the <hi>Septuagint,</hi> and a <hi>Greek Teſtament,</hi> the larger the better, and get them Interleaved, to write down the explication of ſuch Words he knows not, with their va<g ref="char:EOLhyphen"/>rious Significations, and Authors who uſe them.</p>
+                     <p n="3">3. He muſt alſo have an <hi>Engliſh Bible</hi> Interleaved of a large Size; and if bound up in two Volumes no matter, wherein he may put down the Interpretations of all difficult places, which he either Caſually or Induſtriouſly finds, to he conſtantly in his Study, differ<g ref="char:EOLhyphen"/>ing from the Bible he is afterwards to uſe in the Pulpit.</p>
+                     <p n="4">
+                        <pb n="115" facs="tcp:63741:67"/>4. He muſt get the Art of Wri<g ref="char:EOLhyphen"/>ting down his Obſervations and Explications very briefly, other<g ref="char:EOLhyphen"/>wiſe his Tranſcriptions will be in<g ref="char:EOLhyphen"/>finite and tedious: A Method of Marking difficult places. See <hi>Ap<g ref="char:EOLhyphen"/>parat. pag.</hi> 120.</p>
+                     <p n="5">5. Several Obſervations to be made in reading the Scriptures, concerning,</p>
+                     <p n="1">I. The Chronology, ſo far as till the Heathen Computation of time begins to have certain<g ref="char:EOLhyphen"/>ty.</p>
+                     <p n="2">II. The Hiſtory of the illuſtrious Examples of Good and Bad Men; of Deliverances and Judgments, <hi>&amp;c.</hi>
+                     </p>
+                     <p n="3">III. The Geography, eſpecially as far as concorns the <hi>Holy Land,</hi> and bordering places mentioned.</p>
+                     <p n="4">IV. Weights, Meaſures, and Di<g ref="char:EOLhyphen"/>ſtances, and what Proportion they bear to ours now.</p>
+                     <p n="5">V. The <hi>Engliſh</hi> Phraſe and Rhe<g ref="char:EOLhyphen"/>torick, which will be of great uſe hereafter in the Pulpit.</p>
+                     <p n="6">
+                        <pb n="116" facs="tcp:63741:68"/>VI. Such Texts as are a kind of Common-place Texts, either of good Life and Manners, or to Preach on upon occaſion.</p>
+                     <p n="7">VII. Next to the Study of Scri<g ref="char:EOLhyphen"/>pture, he muſt acquaint himſelf with the Doctrine of his own Church, out of the Articles, Homi<g ref="char:EOLhyphen"/>lies, and eſpecially the Collects, as alſo to be well vers'd in Canons and Rubricks.</p>
+                     <p n="8">VIII. The various opinions diſ<g ref="char:EOLhyphen"/>ſenting from the Doctrine, and Practices diſſenting from the Ca<g ref="char:EOLhyphen"/>nons of his own Church: — Arch-Hereticks, Sciſmaticks Anci<g ref="char:EOLhyphen"/>ent and Modern, <hi>&amp;c.</hi>
+                     </p>
+                     <p n="9">IX. Then to read the Lives of the Apoſtles, Apoſtolical Men, Fa<g ref="char:EOLhyphen"/>thers; Heads and Founders of dif<g ref="char:EOLhyphen"/>fering Opinions, the Eives of the Emperors; with a Chronological Series to be learned without-Book, and frequently repeated; this will help the knowledge of Church-Hiſtory.</p>
+                     <p n="10">
+                        <pb n="117" facs="tcp:63741:68"/>X. Two great Paper-Books for Heads and Common places; the firſt for things Theological: See <hi>Apparatus, pag.</hi> 45. The ſecond for ſome other promiſcuous mat<g ref="char:EOLhyphen"/>ters: See <hi>pag.</hi> 13. <hi>cap.</hi> 6. this will be uſeful all his life-time, to ſet down, or referr to what he reads; but with brief and contract wri<g ref="char:EOLhyphen"/>ting, mentioned before.</p>
+                     <p n="11">XI. A ſhort Catalogue of the beſt Books for his purpoſe, which for the firſt Two or Three Years are abſolutely neceſſary, he muſt be directed to; and then what pri<g ref="char:EOLhyphen"/>vate Tracts are moſt Orthodox and Learned, on any part in his Divinity Head-Book.</p>
+                     <p n="12">XII. He muſt ſeriouſly conſider to which part in the Study of Di<g ref="char:EOLhyphen"/>vinity his Nature inclines him, for the main bent of his Indiſtry, ac<g ref="char:EOLhyphen"/>cording to that Diviſion: <hi>Appara<g ref="char:EOLhyphen"/>tus, pag.</hi> 1.</p>
+                     <p>As for Preaching, both Method, Materials, and Delivery, it is not convenient to be publiſhed; it is
+<pb n="118" facs="tcp:63741:69"/>beſt taught by Diſcourſe and Ex<g ref="char:EOLhyphen"/>ample, when the Perſon's Capacity, Knowledge, and Temper is known.</p>
+                     <p>This I think is a ſafer Courſe for a young Divine than to begin with Syſtems, and ſuck in Opini<g ref="char:EOLhyphen"/>ons before he underſtands them: If the Divine be a Perſon of Con<g ref="char:EOLhyphen"/>dition and Quality, I would ad<g ref="char:EOLhyphen"/>viſe him the Aſſiſtance and Tuto<g ref="char:EOLhyphen"/>rage of ſome experienced Perſon, it would turn to great Account, by eaſing Difficulty, ſhortening the Courſe, and effectually obtaining the Deſign. Something like this Pro<g ref="char:EOLhyphen"/>ject I approve of very well, which a very worthy Gentleman of good Sence and Fortune is now putting in Practiſe: He hath one only Child, Heir to a very conſidera<g ref="char:EOLhyphen"/>ble Condition in the World, and who for Perſonals might make as fair pretenſions to the Vanity and Courtſhip of it, as Men of leſs Di<g ref="char:EOLhyphen"/>ſcretion do; but his Parents are reſolved that the World ſhall not have him, for they will give him
+<pb n="119" facs="tcp:63741:69"/>back again to God; and which is ſomething more ſtrange, the young Gentleman himſelf is as willing as they can be, <hi>to be lent unto the Lord,</hi> ſo <hi>Hannah</hi> called her Son <hi>Sa<g ref="char:EOLhyphen"/>muel</hi>'s Miniſtry: And I perſwade my ſelf that a dutiful Compliance with ſo pious a deſign, at the rate of God's Mercifulneſs, can hardly fail of the deſired Bleſſing.</p>
+                     <p>The Method the Father intends to go by is this: After the Advice of Tutors in a round Courſe of U<g ref="char:EOLhyphen"/>niverſity-Studies, he intends to pro<g ref="char:EOLhyphen"/>vide his Son a Tutor for Divini<g ref="char:EOLhyphen"/>ty, which, by the the way, is as neceſſary as for Logick and Philo<g ref="char:EOLhyphen"/>ſophy, and ſo I might ſay for Phy<g ref="char:EOLhyphen"/>ſick and Civil Law too: His great aim is to find a Man knowing in the Studies, and experienced in the Practice of a Divine: And the ad<g ref="char:EOLhyphen"/>vantage may prove very great: For what is written in Books is dead and ſtiff in compariſon of what is delivered <hi>Viva Voce.</hi> When Friendſhip and Familiarity (beſide
+<pb n="120" facs="tcp:63741:70"/>ſolid and fundamental Inſtruction) ſhall draw out a Thouſand little Advices of great moment, though not fit to be Printed, neither doth any Man care to publiſh to all the World what himſelf knows, and hath practiſed in his Function: Two Years of ſuch an Inſtitution, right<g ref="char:EOLhyphen"/>ly managed, and intelligently re<g ref="char:EOLhyphen"/>ceived, would give ſo great a lift into the Pulpit, and to Pre<g ref="char:EOLhyphen"/>ferment alſo (if that were wanted or aimed at) as is not to be va<g ref="char:EOLhyphen"/>lued.</p>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:63741:70"/>
+                  <p>
+                     <hi>New Inſtructions</hi> TO THE GUARDIAN, <hi>The Third Part.</hi>
+                  </p>
+                  <p>THE CONCLUSION: In behalf of Holy Orders.</p>
+                  <p>
+                     <hi>London,</hi> Printed in the Year 1694.</p>
+               </div>
+            </front>
+            <body>
+               <div n="3" type="part">
+                  <pb facs="tcp:63741:71"/>
+                  <pb n="123" facs="tcp:63741:71"/>
+                  <head>THE CONCLUSION: In behalf of Holy Orders.</head>
+                  <p>WHY may not a Man be bold to perſwade the Nobility and Gentry, af<g ref="char:EOLhyphen"/>ter ſuch an Education of their Children, as hath been preſcrib'd, to make more of them Clergy-men.</p>
+                  <p n="1">1. From the Nature of the Pro<g ref="char:EOLhyphen"/>feſſion.</p>
+                  <p>Certainly, every good Man muſt needs own, that it is a ſingular Bleſ<g ref="char:EOLhyphen"/>ſing, to have that for a Man's peculi<g ref="char:EOLhyphen"/>ar Buſineſs and Calling, which is the greateſt concern of all Mankind; Namely, the Study of our Duty
+<pb n="124" facs="tcp:63741:72"/>to God and Man, to which other Profeſſions are a great Hindrance, and Idleneſs a very Enemy.</p>
+                  <p n="2">2. The uſefulneſs of it, and the great Service their Children may do to God and Man, according to the Inſtructions in Mr. <hi>Herbert</hi>'s <hi>Country Parſon,</hi> who was a Man of Quality, and a Famous Example.</p>
+                  <p n="3">3. The Credit they will do the Profeſſion which is infinitely en<g ref="char:EOLhyphen"/>hanc'd by the Dignity of the Per<g ref="char:EOLhyphen"/>ſon: Divinity in a Man of Qua<g ref="char:EOLhyphen"/>lity ſhines like a Diamond in a Caſe of Gold; it communicates and reflects a mutual Luſtre; it attracts the Eyes, the Admiration and Love of all, and becomes a Preſent for a King and Queens Clo<g ref="char:EOLhyphen"/>ſet: Whereas Learning in vulgar Perſons, is like the ſame Diamond unpoliſhed, 'tis rough and unre<g ref="char:EOLhyphen"/>garded, and few Men have Skill enough to venture their Credit by ſhewing of it.</p>
+                  <p n="4">4. Secular Advantage, alſo may be conſidered and looked upon as
+<pb n="125" facs="tcp:63741:72"/>a good Encouragement, tho' not aim<g ref="char:EOLhyphen"/>ed at as the end of the Study: What opportunities have Perſons of Qua<g ref="char:EOLhyphen"/>lity by their Acquaintance with, and Intereſt in Men of power to reward the Induſtry of their Relations, with Dignities, and place them in Stations to ſerve the King by their Counſel, and the Kingdom by great and good Examples? And becauſe this Advice may meet with ſome Objections, a word or two to them.</p>
+                  <p n="1">1. The difficulty of the Study is obvious.</p>
+                  <p>
+                     <gap reason="illegible" resp="#PDCC" extent="1 line">
+                        <desc>〈1 line〉</desc>
+                     </gap> born with as good Abilities as o<g ref="char:EOLhyphen"/>thers? nay, better if they knew it; and why they are not bred up to as much Induſtry, I am afraid I have hit upon the reaſon in the <hi>Guardian's Inſtruction,</hi> I am ſure no wiſe Man can give any Reaſon why they ſhould not be bred ſo.</p>
+                  <p n="2">2. The Gravity, Strictneſs, and Confinement in that Profeſſion is too great, and the reſtraint of the
+<pb n="126" facs="tcp:63741:73"/>high flying <hi>Liberties</hi> and <hi>Properties</hi> of a Gentleman: as if looſeneſs of Manners were Noble and Gallant! if the young Man ſhould ſay he thought ſo, I would believe him, and I would pitty him, but if a Father and Mother ſhould talk ſo, were <hi>Solomon</hi> alive now, I know what he would call them.</p>
+                  <p n="3">3. I fear the greateſt Diſcourage<g ref="char:EOLhyphen"/>ment of young Gentlemen, from taking Orders, is the envy they ſee ſome bear the dignify'd Cler<g ref="char:EOLhyphen"/>gy, and the mean Eſteem, Unrighte<g ref="char:EOLhyphen"/>ouſneſs and Hardſhip the Inferior Clergy are treated with in many Places (ſome particular places muſt be excepted) Few People love a Profeſſion which is contemn'd, ſince the Government has made the Cler<g ref="char:EOLhyphen"/>gy Gentlemen, 'tis pity but the Peo<g ref="char:EOLhyphen"/>ple ſhould think them ſuch; eſpe<g ref="char:EOLhyphen"/>cially coming by their Gentility ſo Honourably as by Act of Parlia<g ref="char:EOLhyphen"/>ment, which is much better than when a Man right or wrong hath gotten an Eſtate, and barters ten
+<pb n="127" facs="tcp:63741:73"/>Pounds with the Herald for a pal<g ref="char:EOLhyphen"/>try Coat of Arms, and preſently grows as proud as the Emperor <hi>Maximilian</hi> was when he heard that his Pedigree reached <hi>Noah;</hi> 'till his own Fool told him, <hi>Sir, then I am of Kin to you.</hi>
+                  </p>
+                  <p>It muſt be confeſſed, and ſome of us are bound to own, That there are many excellent Perſons and Families who give us great Re<g ref="char:EOLhyphen"/>ſpect and Countenance, who Ho<g ref="char:EOLhyphen"/>nour the Function, and are juſt in their Regards, and are Merciful to the Complaints of ſuch as are over<g ref="char:EOLhyphen"/>taxed: And may all the Bleſſings of the Left and Right-Hand of the Almighty God of Heaven and Earth be upon them, and upon all their Poſterity, for ever and for ever.</p>
+                  <p>But the number of ſuch Perſons is not great enough to make this Complaint unreaſonable, which does not ſpring from any ſingular and private Reſentment, but from the general Sighs of the Rural
+<pb n="128" facs="tcp:63741:74"/>Clergy; who though they they are as willing as any Men living to contribute their Share to the ne<g ref="char:EOLhyphen"/>ceſſary defence of the Nation, yet they cannot forbear to wiſh that they had no reaſon to com<g ref="char:EOLhyphen"/>plain, That many times Aſſeſ<g ref="char:EOLhyphen"/>ments, Rates, and Payments of Dues, are not made with that Righteouſneſs by which we muſt all [Clergy and Laity] one Day be tried, when the dreadful Trumpet ſhall ſound, <hi>Ariſe, and</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</p>
+                  <p>This makes many a Man with ſor<g ref="char:EOLhyphen"/>row appeal to the Great Judge of all the Earth.</p>
+                  <p>Here it will be returned; the Law is open for a remedy: No doubt, to relieve the Oppreſſed was the great Deſign, and is the Nobleſt Practice of the Law: But,</p>
+                  <p n="1">1. Some Men are of a Temper rather to endure a Wrong, than the
+<pb n="129" facs="tcp:63741:74"/>buſtling Mechanical part of a Suit of Law.</p>
+                  <p n="2">2. It is ſome odds againſt a Clergy-man, when the Jury ſhall reckon themſelves a Party; as I am afraid many times they do.</p>
+                  <p n="3">3. If a Jury of Country-men ſhould prove Twelve <hi>good Men and true,</hi> and he carry the Cauſe, 'tis catching a Tartar, it will coſt Five times more than the thing is worth; and to call that a Remedy, muſt be either an <hi>Irony</hi> or a groſs <hi>Catachreſis.</hi>
+                  </p>
+                  <p n="4">4. Set Caſe every Miniſter ſhould Sue for ſuch Dues as they are wrong'd of, how would it fill all the Courts of <hi>England;</hi> and what a Clamour would then be raiſed of the <hi>Litigiouſneſs</hi> of the Clergy, when every Action is as Righte<g ref="char:EOLhyphen"/>ous as if there were a Coach and Six Horſes for a Fee.</p>
+                  <p n="5">5. Suppoſe a Parſonage of Three<g ref="char:EOLhyphen"/>ſcore Pounds a Year, after the Pay<g ref="char:EOLhyphen"/>ments of Poll and Land-Taxes, Pariſh Rates, Procurations, and
+<pb n="130" facs="tcp:63741:75"/>Synodalls, Servants Wages, and Feeding and Cloathing a Family, what will remain at the Years end to manage a Suit for Twenty Shillings<g ref="char:EOLhyphen"/>worth of Tythe-Milk or Wooll, with a Sturdy Ill-bred Wealthy Farmer, who denies it meerly be<g ref="char:EOLhyphen"/>cauſe he knows the Miniſter <hi>un<g ref="char:EOLhyphen"/>able</hi> to oppoſe him: But let ſuch a Wretch read, and tremble when he reads, when the Poor curſeth thee in the bitterneſs of his Soul, he ſhall be heard by him who made him.</p>
+                  <p>Certainly, every ſober Perſon muſt needs look on this as a great Hardſhip on the Inferiour Clergy, and a great Diſcouragement in the Performance of their Duty: For it is natural to think the Labourer worthy of his Hire; and the Scri<g ref="char:EOLhyphen"/>pture tells us, That <hi>the Hire which is kept back by Fraud, Cries, and the Crie enters into the Ears of the Lord of Sabbaoth.</hi>
+                  </p>
+                  <p>I cannot reckon ſuch an Oppreſ<g ref="char:EOLhyphen"/>ſor as this a down-right Atheiſt, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="131" facs="tcp:63741:75"/>he has a rambling, conſu<g ref="char:EOLhyphen"/>ſed, giddy, Rude Notion of God, Providence, and Judgment to come, and many times varniſheth over his hidden Malice, Lying and Fraud with the formal out-ſide of Religion: He frequents the Church, Receives the Sacrament at <hi>Eaſter,</hi> and perhaps with Tears ſhall com<g ref="char:EOLhyphen"/>plain of his own rotten and de<g ref="char:EOLhyphen"/>ceitful Heart; and to make ſure work, ſhall accuſe his Neighbour of Swearing, Whoring, or Drun<g ref="char:EOLhyphen"/>kenneſs; and how will this Man think himſelf on Tip-toe for Heaven.</p>
+                  <p>But all this doth not exceed the Righteouſneſs of the Scribes and Phariſees, <hi>Luke</hi> 18.11. <hi>God, I thank thee I am not as other Men, Extorti<g ref="char:EOLhyphen"/>ners, <g ref="char:V">Ʋ</g>njuſt, Adulterers, or even as this Publican:</hi> But Chriſt ſays, <hi>Wo to you Scribes and Phariſees;</hi> condemns them for what they are, while they juſtifie themſelves for what they are not; He determines the Caſe in favour of Humility, Confeſſion, and Repentance, and ſhews that
+<pb n="132" facs="tcp:63741:76"/>Blindneſs of Heart, Pride, Vain-Glory and Hypocriſie, Envy, Ha<g ref="char:EOLhyphen"/>tred, Malice, and all Uncharitable<g ref="char:EOLhyphen"/>neſs, are wrong Signs of Juſtifica<g ref="char:EOLhyphen"/>tion.</p>
+                  <p>Such is the Oppreſſor I ſpeak of, what he calls <hi>Religion</hi> ſhall do him no more Service at the Hour of Death, than a ſtrong Potion doth a Malefactor who is going up the Ladder; he takes it not to ſave his Life, but to prevent ſhewing Fear, or feeling Pain at the preſent.</p>
+                  <p>Thus doth the fair Pretence of Godlineſs ſtupifie the Man's Con<g ref="char:EOLhyphen"/>ſcience (like a ſweet Morſel which Charms the Dog that by Barking ſhould ſave the Houſe) there is no Roaring, no Horror, no Diſtracti<g ref="char:EOLhyphen"/>on on the Death-Bed, which makes the Fooll who tends him, tell the World he went away like a Lamb, whereas when the Scene is ſhifted, and he gone out of ſight, inſtead of a Lamb, he is doom'd to the Kennel of Dogs, Foxes, and Woolves, to everlaſting <hi>Howling
+<pb n="133" facs="tcp:63741:76"/>and gnaſhing of Teeth:</hi> With what Amazement will he receive the Sentence? ſtare about him, grumble and mutter all the way, and won<g ref="char:EOLhyphen"/>der, 'till he comes to know, what ſuch a Saint as he is going to Hell for.</p>
+                  <p>And now ſince the Revenues of the Church and Pious Donations are ſetled and confirmed by as wiſe Laws as any Man's Patrimo<g ref="char:EOLhyphen"/>ny, and the Purchaſer is conſider<g ref="char:EOLhyphen"/>ed for the Tythes; what a ſad thing is it that it ſhould be ſo hard to perſwade the generality of the Vulgar, that it is a Sin to cheat the Parſon: the Vulgar, I ſay, be<g ref="char:EOLhyphen"/>cauſe the Gentry know better; and the Generality, I ſay, becauſe ſome Country People pay honeſtly and chearfully, and many of them that grudge it, yet they dare not make ſo bold with their Conſciences as to Lie, Cheat, and Steal.</p>
+                  <p>And methinks it ſhould confound the Guilty Soul of every one who is told, That the Great God to
+<pb n="134" facs="tcp:63741:77"/>whom Vengeance belongs, hath ſaid, <hi>He that deſpiſeth you, deſpiſeth me:</hi> That God who withered <hi>Je<g ref="char:EOLhyphen"/>roboam</hi>'s Hand, Deſtroyed the Chil<g ref="char:EOLhyphen"/>dren who mock'd the Prophet, made <hi>
+                        <g ref="char:V">Ʋ</g>zziah</hi> a Leper, rotted the Fleſh of <hi>Antiochus</hi> alive, 2 <hi>Maccab.</hi> 9.9. and ſtruck <hi>Ananias</hi> and <hi>Sa<g ref="char:EOLhyphen"/>phira</hi> Dead, <hi>Acts</hi> 2. is as jealous of his Honour now, and ſtill as well able to revenge it; and ma<g ref="char:EOLhyphen"/>ny a Man's Heart would ake, if e<g ref="char:EOLhyphen"/>very one would read <hi>Spelman de non Temerandis Eccleſiis.</hi>
+                  </p>
+                  <p>The great muttering among thoſe that do not love Church-men is this, That many of the Clergy have much more than they deſerve, Live too High, and are too Great, and that the Inferiour Clergy are many of them Idle, Ignorant, Quar<g ref="char:EOLhyphen"/>relſom or Looſe; this is often mur<g ref="char:EOLhyphen"/>mur'd, and when they are in a good Humour, ſpoken out aloud; therefore ſomething ſhall be re<g ref="char:EOLhyphen"/>plyed.</p>
+                  <p>
+                     <pb n="135" facs="tcp:63741:77"/>As for the Firſt part of the Ob<g ref="char:EOLhyphen"/>jection, that ſome of the Clergy have much more than they deſerve: Truly, if God ſhould meaſure out every Man's ſhare in <hi>England</hi> ac<g ref="char:EOLhyphen"/>cording to their deſerts, if he ſhould lay Judgment to the Line, and Righteouſneſs to the Plummet, it would be Impudence in any Man to think he deſerves the Bread he eats: And if God be ſo Gracious as to bleſs any Man's Induſtry in an honeſt Profeſſion, I hope he will have ſo much manners as not to Sacrifice to his Net, or burn In<g ref="char:EOLhyphen"/>cence to his own Dragg, as if by them his Portion were made fat, and his Meat plenteous.</p>
+                  <p>But if Merit were to be the Standard of Worldly Happineſs, what great deſert is there in being born Eldeſt Son and Heir to ſeve<g ref="char:EOLhyphen"/>ral Thouſands a Year, when ſome<g ref="char:EOLhyphen"/>times it falls out, that the Perſon is hardly able to Anſwer Two or Three the eaſieſt Queſtions in the World wiſely enough to ſave him<g ref="char:EOLhyphen"/>ſelf
+<pb n="136" facs="tcp:63741:78"/>from being Begg'd. And there<g ref="char:EOLhyphen"/>fore I think we were better to let the Word <hi>Deſert</hi> alone, and leave the Law to judge of that, which gives the Right and Title.</p>
+                  <p>No doubt the Day-Labourer murmurs now and then at his Mi<g ref="char:EOLhyphen"/>ſerable condition, and the unequal diſtribution of Riches in the World, and thinks he deſerves better than to work late, riſe early, and eat the Bread of Carefulneſs, and be an everlaſting Drudge in the Service of others, who would be thought to deſerve their Luxury leſs than he doth his Bread, if the judicious Rabble ſhould undertake to be Judges, as under the Tri<g ref="char:EOLhyphen"/>bunes in <hi>Rome,</hi> and in the Sangui<g ref="char:EOLhyphen"/>nary Tumults of <hi>Germany</hi> they did.</p>
+                  <p>The next part of the Objection is, that many of the Clergy live too high, and are too great; If they do live too high, they are very much to blame; and now I think of it, that is the folly of the whole Kingdom at this time: Men
+<pb n="137" facs="tcp:63741:78"/>live as profuſely and as unthinkingly as they did when they paid no Taxes; and, I dare ſay, there is ſcarce a Man of any wealthy con<g ref="char:EOLhyphen"/>dition, but might pay the Taxes, by bateing ſome needleſs exceſſes in Habit, Diet, Pocket-money, <hi>&amp;c.</hi> and if they would wear nothing but our own Cloth, drink nothing but our own Liquor, keep none but their own Wives, they need not quarrel at the King and Par<g ref="char:EOLhyphen"/>liament for burthenſome Impoſiti<g ref="char:EOLhyphen"/>ons.</p>
+                  <p>By the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> I ſuppoſe the Biſhops are a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ed at: The King is the Fountain of Ho<g ref="char:EOLhyphen"/>nour, and let him be Judge of the moſt convenient Diſpoſal, and of the ſerviceableneſs of Perſons who are to be in that mighty Meeting: And why may not His Majeſty preſume that the laborious Education of the Clergy may furniſh them with Abilities capable to adminiſter Pra<g ref="char:EOLhyphen"/>dent Counſel to the great concerns of the Kingdom?</p>
+                  <p>
+                     <pb n="138" facs="tcp:63741:79"/>The laſt and heavieſt weight of the Objection is, That many of the lower Clergy are Idle, Ignorant, Quarrelſom, or Looſe: There is not one Word of Excuſe to be made for this where-ever it is found; though where the Profits are poor it can hardly be avoided: But I ſeriouſly believe, that if the utmoſt of our Enemies Malice were gratiſied, if there were an univer<g ref="char:EOLhyphen"/>ſal change in the Nation, and a new Set of Clergy (of any Per<g ref="char:EOLhyphen"/>ſwaſion whatſoever) put into all the Cures and Dignities of the Church, conſidering the great number, there would hardly be fewer exceptio<g ref="char:EOLhyphen"/>nable Perſons for any due Quali<g ref="char:EOLhyphen"/>fications, than there are at this day. And if the Clergy were kept up in Credit and Eſteem, then they would exerciſe their Function with ſome Authority, which I am afraid this Age will never endure.</p>
+                  <p>St. <hi>Ambroſe</hi> and <hi>Theodoſius</hi> were remarkable Inſtances of the Pow<g ref="char:EOLhyphen"/>er of a Biſhop, and the Chriſt a<g ref="char:EOLhyphen"/>nity
+<pb n="139" facs="tcp:63741:79"/>of a Prince. The good Em<g ref="char:EOLhyphen"/>peror did not alledge Greatneſs to Indemnify the horrid Murder of Seven Thouſand People in a Fit of Sovereignty: He did not call the Biſhop Pragmatical Prelate for tel<g ref="char:EOLhyphen"/>ling him that he ſhould never come into the Church, and could never go into Heaven without Repen<g ref="char:EOLhyphen"/>tance. He took the Cenſure as one of the Arrows of the Almigh<g ref="char:EOLhyphen"/>ty ſticking in him, and the Poyſon thereof had well-nigh devoured his Spirits; he was like to have periſhed by a voluntary Famine; he cried, and tore the Hair from his Head, and fell flat on the Ground: <hi>Such was a Biſhop then,</hi> (ſays <hi>Theodoret</hi> gloriouſly) <hi>and ſuch was an Emperor.</hi> And foraſmuch as Heaven and Hell is the ſame thing now it was then, and few Men are wiſer, better, or more Religious than he, and no Man greater than <hi>Theodoſius</hi> was; why ſhould any Man's Wealth, Great<g ref="char:EOLhyphen"/>neſs, or ſomething worſe, make
+<pb n="140" facs="tcp:63741:80"/>him think himſelf above the Sins of Human Infirmities, or no<g ref="char:EOLhyphen"/>torious Guilt? He ſhould thank the Hand that gives him the Sacra<g ref="char:EOLhyphen"/>ment, and the Man who helps him in Confeſſion of his Sins, begging Par<g ref="char:EOLhyphen"/>don, promiſing Amendment, and Prayers for aſſiſtance to perform theſe Promiſes: This was the de<g ref="char:EOLhyphen"/>ſign of the Holy Function, this it did heretofore, and this it does do ſtill where-ever we are looked on as the Miniſters of Chriſt, and not the mere Servants of Men: But <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Apoſtolical Maxim, <hi>The Leſs is bleſſed of the Greater,</hi> is not now <hi>without all Contradiction.</hi>
+                  </p>
+                  <p>Oh good God! that after the Bleſſing of ſo much Knowledge, by the Gracious Liberty of Preaching and Reading the Goſpel, we ſhould run counter to all Mankind! Ex<g ref="char:EOLhyphen"/>amine all the (too many ſeveral) Perſuaſions of Chriſtians in the World, <hi>Papiſts, Lutherans, Calviniſts, Presbyterians, Independants,</hi> the word <hi>Prieſt</hi> and <hi>Paſtor</hi> is a Term of affecti<g ref="char:EOLhyphen"/>on,
+<pb n="141" facs="tcp:63741:80"/>deference and Veneration: Ask a <hi>Jew, Turk,</hi> or <hi>Infidel,</hi> he will tell you that no Subjects are more Ho<g ref="char:EOLhyphen"/>nourable than thoſe who ſerve their Publick Worſhip: Therefore if we worſhip the True God, and if the Communion we profeſs, be altoge<g ref="char:EOLhyphen"/>ther as good, or much better than any other whatſoever, why ſhould not thoſe who Adminiſter to the National Religion be eſteem'd for their Works ſake? St. <hi>Paul</hi> would have ſpared ſome of his Rhetorick in Magnifying his Office, and Cele<g ref="char:EOLhyphen"/>brating the Miniſtration of the Go<g ref="char:EOLhyphen"/>ſpel, above the Law: He would ne<g ref="char:EOLhyphen"/>ver have dreſſed up the Function with ſuch Glorious Titles as <hi>Enthaſ<g ref="char:EOLhyphen"/>ſadors, Stewards, Overſeers,</hi> and <hi>Co<g ref="char:EOLhyphen"/>workers with God,</hi> had he thought that Contempt would have been the <hi>Engliſh</hi> of all this: When the ſame words applied to Secular Per<g ref="char:EOLhyphen"/>ſons, here and every where elſe, are words of an Honourable Diſtincti<g ref="char:EOLhyphen"/>on, Worth, and Reputation. And why ſhould more Pride, Malice,
+<pb n="142" facs="tcp:63741:81"/>Covetouſneſs, or Atheiſm, make <hi>Engliſh</hi> Men an Exception to all Ages and Nations in the World?</p>
+                  <p>To ſumm up the Import of this Concluſion: If the Nobility and Gentry breed up their Sons Clergy<g ref="char:EOLhyphen"/>men, they would be able to main<g ref="char:EOLhyphen"/>tain the Intereſt, and ſupport the Honour of the Prieſthood, which Men of mean Birth and Fortune are like to ſink under: And ſo farewel to Prieſt-Riding, (as they call it) that is, farewel to that Courage in the Preaching and Power in the Go<g ref="char:EOLhyphen"/>verning-Clergy, which ſhould re<g ref="char:EOLhyphen"/>prove and reſtrain the Wickedneſs of the Nation, and prevent the fatal Meaſure of Iniquity.</p>
+                  <p>It is hard to leave off, and it is pity to go on; and if the Reader will believe that there is more Grief than Anger in all this, he will do Juſtice to a Mind full of terrible Apprehenſion, that our Deſtructi<g ref="char:EOLhyphen"/>on cannot linger: For of Natio<g ref="char:EOLhyphen"/>nal Sins the <hi>Puniſhment</hi> is much more likely than the cure.</p>
+                  <p>
+                     <pb n="143" facs="tcp:63741:81"/>So it is where Selfiſhneſs hath eaten out all the good Qualities of our Anceſtors; where ſhall we find any true Generoſity of Spirit? Where is the old true Juſtice and Righteouſneſs in Dealings? Sinceri<g ref="char:EOLhyphen"/>ty in Words and Promiſes is loſt, and no true Charity and Friend<g ref="char:EOLhyphen"/>ſhip to be found: So that whereas there is much Talk of mending the Clergy, alaſs, there is ſuch an ill habit in the whole Body of the Kingdom, that I pray God mend both the <hi>Failings</hi> of the Clergy, and the <hi>Gainſaying</hi> of the Laity too; if God will not, I fear an <hi>Earthquake,</hi> or the <hi>French King</hi> muſt do it.</p>
+                  <trailer>FINIS.</trailer>
+                  <pb n="120" facs="tcp:63741:82"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:63741:82"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:63741:83"/>
+                  <pb n="123" facs="tcp:63741:83"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="124" facs="tcp:63741:84"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="125" facs="tcp:63741:84"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="126" facs="tcp:63741:85"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="127" facs="tcp:63741:85"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="128" facs="tcp:63741:86"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="129" facs="tcp:63741:86"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="130" facs="tcp:63741:87"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="131" facs="tcp:63741:87"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="132" facs="tcp:63741:88"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="133" facs="tcp:63741:88"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="134" facs="tcp:63741:89"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="135" facs="tcp:63741:89"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="136" facs="tcp:63741:90"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="137" facs="tcp:63741:90"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="138" facs="tcp:63741:91"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="139" facs="tcp:63741:91"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="140" facs="tcp:63741:92"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="141" facs="tcp:63741:92"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="142" facs="tcp:63741:93"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="143" facs="tcp:63741:93"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
